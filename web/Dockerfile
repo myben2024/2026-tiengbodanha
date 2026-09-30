@@ -8,7 +8,7 @@ RUN npm ci
 FROM dependencies AS build
 
 COPY . .
-RUN npm run build
+RUN ./node_modules/.bin/tsc -b && ./node_modules/.bin/vite build
 
 FROM cgr.dev/chainguard/node:latest-dev AS production-dependencies
 
