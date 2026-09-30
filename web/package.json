@@ -1,0 +1,32 @@
+{
+  "name": "be-ghep-chu-pt-pt",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content": "node scripts/build-content.mjs",
+    "audio:delete": "node scripts/delete-audio.mjs",
+    "dev": "npm run content && vite --host 127.0.0.1",
+    "build": "npm run content && tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "node server/index.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.967.0",
+    "dompurify": "^3.2.7",
+    "lucide-react": "^0.468.0",
+    "marked": "^15.0.12",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}

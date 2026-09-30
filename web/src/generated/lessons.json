@@ -1,0 +1,3398 @@
+{
+  "title": "Bé ghép chữ, đọc tiếng Bồ Đào Nha",
+  "subtitle": "Português de Portugal (pt-PT)",
+  "lessonCount": 48,
+  "readingCount": 8,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Làm quen với bảng chữ cái",
+      "summary": "Học làm quen với bảng chữ cái. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Làm quen với bảng chữ cái.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Cách hiểu đơn giản cho người mới:** chúng ta không học đọc bằng tiếng Việt trước. Ta chỉ bắt đầu bằng việc nhìn mặt chữ, nhận ra các “hình” của chữ và biết cách gọi tên chữ. Sau đó mới ghép chữ thành tiếng."
+        },
+        {
+          "type": "note",
+          "text": "**Bé nhìn:** `A B C D E F G H I J K L M N O P Q R S T U V W X Y Z` (đủ 26 chữ); viết chữ thường tương ứng `a b c d e f g h i j k l m n o p q r s t u v w x y z`."
+        },
+        {
+          "type": "note",
+          "text": "**Người lớn nói:** tên chữ giúp gọi mặt chữ, nhưng **tên chữ không phải âm cần ghép**. Ví dụ: chữ `m` được gọi là “em”, nhưng khi đọc từ ta phải đọc /m/ như âm của `m`, không đọc thành “em”. `k, w, y` gặp chủ yếu ở tên riêng, từ mượn và ký hiệu. `ç` là biến thể có móc của `c`, không phải chữ cái thứ 27. `ch`, `lh`, `nh` là cặp chữ mà ta đọc như một âm duy nhất."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** khoanh `a`, `m`, `p` trong `mapa`; tô lại `A a – E e – O o`."
+        },
+        {
+          "type": "note",
+          "text": "**Từ chạm tay:** `o` và `a` là mạo từ. `o` là “cái” giống đực, `a` là “cái” giống cái. Ta không đọc `o` như chữ “ô” trong tiếng Việt. “Một” là `um/uma`, **không phải** `o/a`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghi nhớ cho người học:** cứ bắt đầu từ chữ, không đi đoán từ bằng tiếng Việt. Ta sẽ học cách nhìn chữ, nghe âm và ghép tiếng dần dần."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 2,
+      "title": "Năm chữ nguyên âm và cách đọc",
+      "summary": "Nhận ra 5 chữ nguyên âm a, e, i, o, u. Nghe kỹ hai cặp e mở/khép (pé/vê) và o mở/khép (avó/avô).",
+      "steps": [
+        "Nhìn và đọc theo: a, e, i, o, u.",
+        "Nghe a, i, u trong pá, vi, tu.",
+        "So sánh e mở trong pé với e khép trong vê.",
+        "So sánh o mở trong avó với o khép trong avô; chọn đúng nghĩa bà/ông."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Mục tiêu bài này:** nhận ra 5 **chữ** nguyên âm `a, e, i, o, u`; sau đó nghe hai cặp dễ nhầm là `é/ê` và `ó/ô`. Chưa cần học mọi quy tắc phát âm ngay."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 1 — Nhìn 5 chữ nguyên âm**"
+        },
+        {
+          "type": "paragraph",
+          "text": "`a · e · i · o · u`"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đây là **chữ viết**. Chữ `e` và chữ `o` có thể nghe khác nhau trong những từ khác nhau. Hãy nghe cả từ mẫu; đừng vội gắn một âm tiếng Việt cố định vào mỗi chữ."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 2 — Nghe cặp E: mở và khép**"
+        },
+        {
+          "type": "paragraph",
+          "text": "`é` trong `pé` (bàn chân) nghe là /ɛ/, e mở hơn (miệng mở rộng hơn). `ê` trong `vê` (thấy) nghe là /e/, e khép hơn (miệng khép hơn). Không cần bắt chước ký hiệu IPA; hãy nghe rồi nhận ra từ nào đang được đọc."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 3 — Nghe cặp O: mở và khép**"
+        },
+        {
+          "type": "paragraph",
+          "text": "`ó` trong `avó` (bà) nghe là /ɔ/, o mở hơn (miệng mở rộng hơn). `ô` trong `avô` (ông) nghe là /o/, o khép hơn (miệng khép hơn)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chỉ thay dấu ở `ó/ô`, ta có hai từ khác nghĩa: `avó` là bà, `avô` là ông."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 4 — Đọc thử A, I và U**"
+        },
+        {
+          "type": "paragraph",
+          "text": "`a` trong `pá` (xẻng) nghe gần /a/. `i` trong `vi` (tôi đã thấy) nghe gần /i/. `u` trong `tu` (bạn, cách gọi thân mật) nghe gần /u/."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé luyện**"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": true,
+          "items": [
+            "Đọc theo người hướng dẫn: `a – e – i – o – u`.",
+            "Nghe `pé` và `vê`; chỉ vào đúng từ hoặc chữ `é/ê`.",
+            "Nghe `avó` và `avô`; chọn đúng `ó/ô`, rồi nói nghĩa “bà/ông”.",
+            "Nghe lại `pá`, `vi`, `tu` để nhận ra `a, i, u` trong từ thật."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Lưu ý:** dấu sắc `´` và dấu mũ `^` là dấu chính tả tiếng Bồ Đào Nha, không phải thanh điệu tiếng Việt. Trong các ví dụ của bài này, dấu giúp phân biệt cách đọc của `é/ê`, `ó/ô` và cho biết trọng âm. Chữ `e/o` không dấu còn có thể thay đổi theo từ và vị trí; ta sẽ luyện âm không nhấn ở bài 9."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 3,
+      "title": "Ghép phụ âm với nguyên âm",
+      "summary": "Ghép m, p và b với năm nguyên âm; đọc từng âm tiết rồi nối thành các từ mapa và pato.",
+      "steps": [
+        "Nhìn 5 nguyên âm a, e, i, o, u.",
+        "Ghép lần lượt m, p, b với từng nguyên âm.",
+        "Đọc liền các âm tiết ma, pa, bo.",
+        "Nối âm tiết để đọc mapa và pato."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** ta không cần tách chữ ra thành các tên chữ. Cứ lấy phần đầu và phần sau ghép với nhau: `m + a = ma`, `p + a = pa`, `b + o = bo`."
+        },
+        {
+          "type": "note",
+          "text": "**Sơ đồ thực hành:** `m` + `a` → `ma`; `p` + `a` → `pa`; `b` + `o` → `bo`."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Âm đầu ↓ / chữ sau →",
+              "a",
+              "e",
+              "i",
+              "o",
+              "u"
+            ],
+            [
+              "m",
+              "ma",
+              "me",
+              "mi",
+              "mo",
+              "mu"
+            ],
+            [
+              "p",
+              "pa",
+              "pe",
+              "pi",
+              "po",
+              "pu"
+            ],
+            [
+              "b",
+              "ba",
+              "be",
+              "bi",
+              "bo",
+              "bu"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** chỉ ba ô `ma`, `pa`, `bo`; nối `ma + pa → mapa` (🗺️ bản đồ), `pa + to → pato` (🦆 vịt; `to` sẽ học bài sau). **Tập đọc trơn:** **MA**-pa, **PA**-to. Các ô lẻ trong bảng là **âm tiết luyện ghép**, không phải tất cả đều là từ độc lập."
+        },
+        {
+          "type": "note",
+          "text": "**Người lớn nhắc:** không đọc “tên chữ eme + a”, mà lấy âm /m/ nối liền với nguyên âm. Trong từ thật, nguyên âm **không nhấn** có thể đọc yếu đi, sẽ học ở bài 4."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Mẹo cho người mới:** khi mới học, ta chỉ cần nhìn chữ và đọc âm theo thứ tự: phụ âm + nguyên âm. Chỉ cần đọc mượt là được, không cần hiểu hết mọi quy tắc ngay."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "m",
+          "value": "ma",
+          "meaning": "me"
+        },
+        {
+          "label": "p",
+          "value": "pa",
+          "meaning": "pe"
+        },
+        {
+          "label": "b",
+          "value": "ba",
+          "meaning": "be"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tìm âm tiết được nhấn mạnh",
+      "summary": "Học tìm âm tiết được nhấn mạnh. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Tìm âm tiết được nhấn mạnh.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** mỗi từ có một âm “nổi bật”, gọi là trọng âm. Ta cần biết âm nào được đọc mạnh hơn. Trong từ `pato`, ta nghe rõ nhất là `PA`; trong `café`, ta nghe rõ nhất là `FÉ`."
+        },
+        {
+          "type": "note",
+          "text": "**Nghe và gõ bàn:** **PA**-to (vịt), **MA**-pa (bản đồ), ca-**FÉ** (cà phê), sa-**PÁ**-to (giày)."
+        },
+        {
+          "type": "note",
+          "text": "**Sơ đồ:** `pa` + `to` → **PA**-to; `ca` + `fé` → ca-**FÉ**. Vỗ **hai** nhịp cho hai âm tiết; vỗ **mạnh** ở phần viết hoa. Chữ không mang dấu vẫn có âm tiết mạnh: `pato` nhấn `pa`."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** tô khung âm mạnh trong `ma-pa / ca-fé / sa-pa-to`. **Thử đọc câu:** `O pato.` — Con vịt. Người lớn làm mẫu `o` (thường /u/) trước, đừng ép trẻ đọc giống chữ “ô”."
+        },
+        {
+          "type": "note",
+          "text": "**Góc học âm:** tiếng Việt đặt thanh trên mỗi tiếng; ở đây trọng âm là **một âm tiết nổi bật trong từ**, không phải quy tắc gắn 6 thanh vào từng ô của bảng ghép. Đây là điểm rất quan trọng: ta phải nghe toàn từ, không chỉ nhìn từng chữ."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 5,
+      "title": "Ghép M và P thành từ",
+      "summary": "Học ghép m và p thành từ. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Ghép M và P thành từ.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** giờ ta bắt đầu ghép từ dễ hiểu. Học xong `ma`, `me`, `mi`, `mo`, `mu` và `pa`, `pe`, `pi`, `po`, `pu`, ta nối lại thành từ."
+        },
+        {
+          "type": "note",
+          "text": "**Bé ghép:** `ma me mi mo mu` ↔ `pa pe pi po pu`. Đọc bảng khi người lớn chỉ ô bất kỳ."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Ghép trên thẻ",
+              "Từ viết liền",
+              "Nghĩa"
+            ],
+            [
+              "`ma + pa`",
+              "`mapa`",
+              "🗺️ bản đồ"
+            ],
+            [
+              "`pa + pa`",
+              "`papa`",
+              "🥣 thức ăn mềm cho em bé"
+            ],
+            [
+              "`pu + ma`",
+              "`puma`",
+              "🐆 báo sư tử"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ưu tiên từ chính:** `mapa` = **MA**-pa. **Bé làm:** viết `ma + pa = ____` và vẽ một bản đồ bé xíu. **Đọc cụm:** `O mapa.` — Tấm bản đồ."
+        },
+        {
+          "type": "note",
+          "text": "**Nhắc pt-PT:** trong `mapa`, chữ `a` cuối thường nhẹ, gần /ɐ/, **không đọc mạnh như a đầu**. Đây là ví dụ rất điển hình: ta nhìn chữ, nhưng cách phát âm cuối từ thường nhẹ hơn rất nhiều."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ma + pa`",
+          "value": "`mapa`",
+          "meaning": "🗺️ bản đồ"
+        },
+        {
+          "label": "`pa + pa`",
+          "value": "`papa`",
+          "meaning": "🥣 thức ăn mềm cho em bé"
+        },
+        {
+          "label": "`pu + ma`",
+          "value": "`puma`",
+          "meaning": "🐆 báo sư tử"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ghép B, T và D thành từ",
+      "summary": "Ghép b, t và d với năm nguyên âm để tạo âm tiết, rồi đọc các từ bola, dado và batata.",
+      "steps": [
+        "Đọc các hàng ba, be, bi, bo, bu; ta, te, ti, to, tu; da, de, di, do, du.",
+        "Nghe và phân biệt âm đầu b, t, d.",
+        "Ghép các âm tiết thành bola, dado, batata.",
+        "Đọc từ và câu mẫu; để ý phát âm pt-PT của ti/di."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** ta đổi phụ âm đầu để biến một âm tiết thành từ khác. Cùng âm tiết, chỉ đổi chữ đầu là ta có từ mới."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bảng ghép:** `ba be bi bo bu` · `ta te ti to tu` · `da de di do du`."
+        },
+        {
+          "type": "quote",
+          "text": "`bo + la` → `bola` ⚽ quả bóng, **BO**-la. `da + do` → `dado` 🎲 xúc xắc, **DA**-do. `ba + ta + ta` → `batata` 🥔 khoai tây, ba-**TA**-ta."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** nối `bola/dado/batata` với hình ⚽/🎲/🥔; viết `bo + la = ____`."
+        },
+        {
+          "type": "note",
+          "text": "**Tai Portugal:** `ti/di` **thường là /ti/, /di/**, không mặc định thành âm “chi/gi” kiểu phổ biến ở nhiều vùng Brazil. `e` cuối yếu trong `sete`, `verde` cũng **không tự động = /i/**. Đọc mẫu chậm, không lấy phát âm pt-BR làm bài mẫu."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Mẹo:** đừng nghĩ mọi âm đều giống nhau ở mọi từ. Cùng một chữ có thể nghe khác khi nằm ở đầu, giữa hoặc cuối từ."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 7,
+      "title": "Ghép N và L thành từ",
+      "summary": "Học ghép n và l thành từ. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Ghép N và L thành từ.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** khi ta đã biết vài âm, ta có thể ghép thành những từ rất gần với cuộc sống hằng ngày: `lata`, `bolo`, `menina`..."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Đọc:** `na ne ni no nu` · `la le li lo lu`."
+        },
+        {
+          "type": "quote",
+          "text": "`la + ta` → `lata` 🥫 cái lon. `bo + lo` → `bolo` 🍰 bánh ngọt. `me + ni + na` → `menina` 👧 bé gái."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** tách `bolo` thành `____ + ____`; chỉ âm tiết mạnh trong me-**NI**-na. **Đọc câu:** `A menina vê o bolo.` — Bé gái nhìn thấy bánh."
+        },
+        {
+          "type": "note",
+          "text": "**Nghe pt-PT:** `e` đầu `menina` không nhấn thường rất yếu (/ɨ/ hoặc lược bớt), `o` cuối `bolo` gần /u/. Chia âm tiết để **nhìn chữ**, sau đó nghe và **nối trơn**, đừng phát âm bằng nhau cả ba tiếng."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 8,
+      "title": "Phân biệt âm F và V",
+      "summary": "Học phân biệt âm f và v. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Phân biệt âm F và V.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** hai chữ `f` và `v` nghe gần nhau nhưng không giống nhau. Một đẩy hơi, một có rung giọng. Người mới cần nghe thật rõ để phân biết."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Đọc nhanh theo cột:** `fa fe fi fo fu` · `va ve vi vo vu`. Với /f/ đẩy hơi; với /v/ vừa thổi vừa rung giọng."
+        },
+        {
+          "type": "quote",
+          "text": "`fa + ca` → `faca` 🔪 dao, **FA**-ca. `va + ca` → `vaca` 🐄 bò cái, **VA**-ca. `vi + va` → `viva` 🎉 “muôn năm” / sống (tùy ngữ cảnh), **VI**-va."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** khoanh chữ **khác** trong `faca/vaca`; người lớn nói một trong hai, bé chỉ đúng chữ. **Đọc câu:** `A vaca vê a faca.` — Con bò nhìn thấy con dao. (Câu chỉ để luyện đọc.)"
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 9,
+      "title": "Nguyên âm cuối không nhấn thường đọc yếu",
+      "summary": "Nghe nguyên âm a, e, o ở cuối từ khi không được nhấn. So sánh pato, mapa và chave; âm cuối yếu đi nhưng cách viết vẫn giữ nguyên.",
+      "steps": [
+        "Nghe cả từ pato, mapa và chave.",
+        "Vỗ tay ở âm tiết mạnh: PA-to, MA-pa, CHA-ve.",
+        "Nghe âm cuối: o gần /u/, a gần /ɐ/, e rất nhẹ gần /ɨ/.",
+        "Điền đúng chữ cuối và nhớ: âm yếu đi nhưng chính tả không đổi."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Mục tiêu:** nghe sự khác nhau giữa âm tiết được nhấn và nguyên âm `a`, `e`, `o` ở cuối từ khi chúng không được nhấn. Âm cuối có thể nhẹ đi; **chữ viết vẫn giữ nguyên**."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Trước hết, tìm âm tiết mạnh:** đọc `PA-to`, `MA-pa`, `CHA-ve`. Phần viết hoa là phần được nhấn. Âm cuối của cả ba từ yếu hơn phần đầu."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Nghe ba từ mẫu:**"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": false,
+          "items": [
+            "`pato` (vịt): âm tiết mạnh `PA`; chữ `o` cuối không nhấn thường nghe gần /u/. Vẫn viết `o`.",
+            "`mapa` (bản đồ): âm tiết mạnh `MA`; chữ `a` cuối không nhấn thường nghe gần /ɐ/ — âm a nhẹ hơn. Vẫn viết `a`.",
+            "`chave` (chìa khóa): âm tiết mạnh `CHA`; chữ `e` cuối không nhấn rất nhẹ, thường gần /ɨ/ và có thể mờ đi khi nói nhanh. Vẫn viết `e`."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**So sánh để khỏi nhầm:** trong `café` (cà phê), chữ `é` ở cuối được nhấn mạnh nên nghe rõ; nó không giống chữ `e` yếu ở cuối `chave`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé luyện theo 3 bước:**"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": true,
+          "items": [
+            "Nghe cả từ `pato`, `mapa`, `chave`.",
+            "Vỗ tay một lần ở âm tiết mạnh: **PA**-to, **MA**-pa, **CHA**-ve.",
+            "Nghe âm cuối rồi điền chữ còn thiếu: `pat_` → `pato`; `map_` → `mapa`; `chav_` → `chave`."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Tự kiểm:** âm cuối nghe nhẹ đi nhưng chính tả không đổi. Đừng viết `patu`, `mapɐ` hay bỏ chữ `e` khỏi `chave`."
+        },
+        {
+          "type": "note",
+          "text": "**Lưu ý cho người lớn:** đây là cách phát âm thường gặp trong giọng chuẩn phổ biến tại Portugal, không phải luật tuyệt đối cho mọi từ và mọi tốc độ nói. Bảng ghép `pa pe pi po pu` giúp nhận mặt chữ; cách đọc nguyên âm còn phụ thuộc trọng âm và vị trí trong từ."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 10,
+      "title": "Ôn đọc các từ đã học",
+      "summary": "Ôn chín từ đã học: đọc từ hai và ba âm tiết, tìm âm tiết được nhấn, nghe nguyên âm cuối yếu và luyện câu. Dùng thêm chave để ôn chữ e cuối.",
+      "steps": [
+        "Đọc bảy từ hai âm tiết: mapa, pato, bola, dado, bolo, vaca, lata.",
+        "Đọc batata và menina; vỗ theo âm tiết và nhấn mạnh phần viết hoa.",
+        "Nghe o/a/e cuối từ trong pato, mapa, chave; viết đúng chữ dù âm nghe yếu.",
+        "Đọc hai câu ngắn rồi tự kiểm tra chín từ đã học."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Mục tiêu:** ôn lại cách ghép âm, tìm âm tiết được nhấn và đọc nguyên âm cuối nhẹ. Bài này không thêm quy tắc mới; hãy đọc chậm trước, rồi nối các âm tiết thành từ."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 1 — Đọc từ hai âm tiết**"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đọc từng âm tiết một lần. Chữ in hoa cho biết âm tiết được nhấn:"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": false,
+          "items": [
+            "`mapa` → **MA**-pa (bản đồ)",
+            "`pato` → **PA**-to (vịt)",
+            "`bola` → **BO**-la (quả bóng)",
+            "`dado` → **DA**-do (xúc xắc)",
+            "`bolo` → **BO**-lo (bánh ngọt)",
+            "`vaca` → **VA**-ca (bò cái)",
+            "`lata` → **LA**-ta (cái lon)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 2 — Đọc từ ba âm tiết**"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": false,
+          "items": [
+            "`batata` → ba-**TA**-ta (khoai tây)",
+            "`menina` → me-**NI**-na (bé gái)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vỗ một nhịp cho mỗi âm tiết; vỗ mạnh hơn ở phần viết hoa. Sau đó đọc lại cả từ liền mạch."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bước 3 — Nghe chữ cuối**"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trong `pato`, chữ `o` cuối nghe gần /u/. Trong `mapa`, chữ `a` cuối thường nhẹ. Trong `chave`, chữ `e` cuối rất nhẹ. Nghe âm yếu nhưng vẫn viết đúng `o`, `a`, `e` — không viết theo âm mình nghe."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé luyện**"
+        },
+        {
+          "type": "list",
+          "text": "",
+          "ordered": true,
+          "items": [
+            "Che phần nghĩa, nghe mẫu rồi chỉ đúng một trong chín từ ở trên.",
+            "Nối âm tiết: `ma + pa`, `pa + to`, `bo + la`, `da + do`.",
+            "Điền phần còn thiếu: `ba-ta-ta`, `me-ni-na`, `va-ca`; đọc lại cả từ.",
+            "Đọc câu ngắn: `O pato vê a bola.` — Con vịt nhìn thấy quả bóng.",
+            "Đọc câu dài hơn: `A menina vê o mapa.` — Bé gái nhìn thấy bản đồ."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Tự kiểm:** đọc được ít nhất 7/9 từ mà không nhìn nghĩa; chỉ đúng âm tiết được nhấn ở `batata` và `menina`; viết đúng chữ cuối của `pato`, `mapa`, `chave`. Nếu còn khó, nghe lại từng từ và đọc theo nhịp — chưa cần đọc nhanh."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 11,
+      "title": "Chữ C và QU: khi nào đọc /k/ hay /s/?",
+      "summary": "Nhìn nguyên âm sau chữ c để chọn âm /k/ hay /s/; dùng qu để giữ âm /k/ trước e và i.",
+      "steps": [
+        "Đọc ca/co/cu và ce/ci.",
+        "So sánh âm /k/ với /s/ của chữ c.",
+        "Đọc que/qui; lưu ý u thường không phát âm trong các ví dụ này.",
+        "Nghe các từ thật e kiểm tra ngoại lệ của qu."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** chữ `c` đổi âm tùy chữ đứng sau. Trước `a, o, u`, ta thường nghe /k/; trước `e, i`, ta thường nghe /s/. Muốn giữ âm /k/ trước `e, i`, tiếng Bồ thường viết `qu`."
+        },
+        {
+          "type": "quote",
+          "text": "`c` + `a/o/u` → `ca/co/cu` → /ka, ko, ku/ `c` + `e/i` → `ce/ci` → /se, si/ `qu` + `e/i` → `que/qui` → /ke, ki/; trong nhiều từ, `u` không phát âm."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Từ",
+              "Ghép để nhìn chữ",
+              "Nghĩa"
+            ],
+            [
+              "`casa`",
+              "`ca + sa`",
+              "🏠 nhà"
+            ],
+            [
+              "`copo`",
+              "`co + po`",
+              "🥛 cốc"
+            ],
+            [
+              "`cebola`",
+              "`ce + bo + la`",
+              "🧅 hành"
+            ],
+            [
+              "`cima`",
+              "`ci + ma`",
+              "phía trên"
+            ],
+            [
+              "`queijo`",
+              "`quei + jo`",
+              "🧀 phô mai"
+            ],
+            [
+              "`quilo`",
+              "`qui + lo`",
+              "⚖️ ki-lô-gam"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** chọn `ca/ce/qui` cho /ka/, /se/, /ki/; đọc `casa` và `cebola`. Người lớn đọc thêm `quase` (gần như): ở từ này, chữ `u` được phát âm. Không suy ra rằng mọi `qu` đều câm `u`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`casa`",
+          "value": "`ca + sa`",
+          "meaning": "🏠 nhà"
+        },
+        {
+          "label": "`copo`",
+          "value": "`co + po`",
+          "meaning": "🥛 cốc"
+        },
+        {
+          "label": "`cebola`",
+          "value": "`ce + bo + la`",
+          "meaning": "🧅 hành"
+        },
+        {
+          "label": "`cima`",
+          "value": "`ci + ma`",
+          "meaning": "phía trên"
+        },
+        {
+          "label": "`queijo`",
+          "value": "`quei + jo`",
+          "meaning": "🧀 phô mai"
+        },
+        {
+          "label": "`quilo`",
+          "value": "`qui + lo`",
+          "meaning": "⚖️ ki-lô-gam"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Chữ G và GU: chọn âm theo nguyên âm sau",
+      "summary": "Học chữ g và gu: chọn âm theo nguyên âm sau. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Chữ G và GU: chọn âm theo nguyên âm sau.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** chữ `g` cũng đổi âm trước `e` và `i`. Trước `a, o, u`, thường là /g/; trước `e, i`, thường là /ʒ/. Muốn giữ /g/ trước `e, i/, ta thường gặp `gu`."
+        },
+        {
+          "type": "quote",
+          "text": "`ga/go/gu` → /ga, go, gu/ `ge/gi` → /ʒe, ʒi/ `gue/gui` → /ge, gi/ trong nhiều từ; `u` thường không phát âm."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Từ",
+              "Ghép để nhìn chữ",
+              "Nghĩa"
+            ],
+            [
+              "`gato`",
+              "**GA**-to",
+              "🐈 mèo"
+            ],
+            [
+              "`gelo`",
+              "**GE**-lo",
+              "🧊 nước đá"
+            ],
+            [
+              "`guitarra`",
+              "gui-**TAR**-ra",
+              "🎸 đàn ghi-ta"
+            ],
+            [
+              "`guerra`",
+              "**GUER**-ra",
+              "chiến tranh"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** nghe `gato/gelo`, chỉ `ga/ge`; ghép `gui + ta + rra` thành `guitarra`. Chữ `u` được đọc trong một số từ như `aguentar`; hãy nghe từng từ mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`gato`",
+          "value": "**GA**-to",
+          "meaning": "🐈 mèo"
+        },
+        {
+          "label": "`gelo`",
+          "value": "**GE**-lo",
+          "meaning": "🧊 nước đá"
+        },
+        {
+          "label": "`guitarra`",
+          "value": "gui-**TAR**-ra",
+          "meaning": "🎸 đàn ghi-ta"
+        },
+        {
+          "label": "`guerra`",
+          "value": "**GUER**-ra",
+          "meaning": "chiến tranh"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "CH, LH, NH: mỗi cặp chữ tạo một âm",
+      "summary": "Học ch, lh, nh: mỗi cặp chữ tạo một âm. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: CH, LH, NH: mỗi cặp chữ tạo một âm.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** đôi khi hai chữ đi cạnh nhau nhưng chỉ biểu thị một âm. Đừng đọc riêng từng chữ cái."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Cặp chữ",
+              "Gợi ý nghe",
+              "Từ mẫu"
+            ],
+            [
+              "`ch`",
+              "/ʃ/, gần âm “sh”",
+              "`chave` (chìa khóa)"
+            ],
+            [
+              "`lh`",
+              "/ʎ/; cần nghe người bản ngữ",
+              "`filho` (con trai)"
+            ],
+            [
+              "`nh`",
+              "/ɲ/, gần âm “nh” tiếng Việt",
+              "`ninho` (tổ chim)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé ghép:** `cha + ve` → `chave`; `fi + lho` → `filho`; `ni + nho` → `ninho`. Khi tách để đọc, giữ `ch`, `lh`, `nh` cùng một âm tiết."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** nối `ch/nh/lh` với `chave/ninho/filho`; tô cả cặp chữ trong mỗi từ. Đọc câu: `O gato vê o ninho.` — Mèo nhìn thấy tổ chim."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ch`",
+          "value": "/ʃ/, gần âm “sh”",
+          "meaning": "`chave` (chìa khóa)"
+        },
+        {
+          "label": "`lh`",
+          "value": "/ʎ/; cần nghe người bản ngữ",
+          "meaning": "`filho` (con trai)"
+        },
+        {
+          "label": "`nh`",
+          "value": "/ɲ/, gần âm “nh” tiếng Việt",
+          "meaning": "`ninho` (tổ chim)"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Đọc S, SS và Z theo vị trí trong từ",
+      "summary": "Học đọc s, ss và z theo vị trí trong từ. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Đọc S, SS và Z theo vị trí trong từ.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** chữ `s` có thể đổi âm khi nằm giữa hai nguyên âm. Nhìn cả vị trí của chữ, đừng chỉ nhìn riêng chữ `s`."
+        },
+        {
+          "type": "quote",
+          "text": "`s` đầu từ thường /s/: `sapo` (con cóc). `s` giữa hai nguyên âm thường /z/: `casa` (nhà). `ss` giữa hai nguyên âm là /s/: `massa` (bột nhào). `z` thường là /z/: `zero` (số không)."
+        },
+        {
+          "type": "paragraph",
+          "text": "**So sánh:** `ca-sa` có âm /z/; `mas-sa` có âm /s/. Khi chia chữ để luyện viết, `ss` được tách đôi giữa hai âm tiết, nhưng khi đọc vẫn là âm /s/."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** khoanh `ss` trong `massa` và chữ `s` nghe /z/ trong `casa`. Đọc câu: `O sapo está na casa.` — Con cóc ở trong nhà."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 15,
+      "title": "Phân biệt R nhẹ, R mạnh và chữ Ç",
+      "summary": "Học phân biệt r nhẹ, r mạnh và chữ ç. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Phân biệt R nhẹ, R mạnh và chữ Ç.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Cách hiểu đơn giản:** một chữ `r` ở giữa hai nguyên âm thường nhẹ; `r` đầu từ hoặc `rr` giữa hai nguyên âm là âm R mạnh. R mạnh có thể được phát âm hơi khác giữa các vùng ở Portugal."
+        },
+        {
+          "type": "quote",
+          "text": "`caro` (**CA**-ro) = đắt; `r` giữa hai nguyên âm thường bật nhẹ. `carro` (**CAR**-ro) = ô tô; `rr` là R mạnh. `rato` (**RA**-to) = chuột; `r` đầu từ là R mạnh."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Chữ `ç`:** thường cho âm /s/ trước `a, o, u`: `taça` (cái cốc có chân), `açúcar` (đường), `almoço` (bữa trưa). `ç` không đứng đầu từ và không đứng trước `e, i`."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** nghe và so sánh `caro/carro`; tô `rr` trong `carro` và `ç` trong `taça`. Ghép `ca + rro = ____`."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 16,
+      "title": "Âm S ở cuối âm tiết trong tiếng Bồ Đào Nha châu Âu",
+      "summary": "Học âm s ở cuối âm tiết trong tiếng bồ đào nha châu âu. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Âm S ở cuối âm tiết trong tiếng Bồ Đào Nha châu Âu.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ở giọng chuẩn pt-PT, chữ `s` **cuối âm tiết trước phụ âm vô thanh hoặc cuối câu** thường /ʃ/ (gần “sh”); **trước phụ âm hữu thanh** thường /ʒ/. Trước nguyên âm của từ tiếp theo, nhiều trường hợp nó **nối âm** thành /z/. Đây là âm của **vị trí cuối âm tiết**, khác `s` đầu từ ở bài 14."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhìn từ/cụm",
+              "Lắng nghe",
+              "Ghi nhớ"
+            ],
+            [
+              "`pasta` → `pas-ta`",
+              "/ʃ/ trước `t`",
+              "📁 bìa hồ sơ / 🍝 mì ống"
+            ],
+            [
+              "`mesmo` → `mes-mo`",
+              "/ʒ/ trước `m`",
+              "cũng, chính"
+            ],
+            [
+              "`dois` (đứng riêng)",
+              "/ʃ/ ở cuối",
+              "số hai"
+            ],
+            [
+              "`os amigos`",
+              "`s` nối qua nguyên âm, gần /z/",
+              "những người bạn"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** đánh dấu `s` cần nghe gần “sh” trong `pasta, dois`; đánh dấu từ có /ʒ/ trong `mesmo`. **Không** thêm `h` vào chính tả: viết `pasta`, không viết “pashta”. Âm cuối `z` trong `feliz` cũng có thể thành /ʃ/ khi đứng cuối cụm nói ở giọng chuẩn này."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`pasta` → `pas-ta`",
+          "value": "/ʃ/ trước `t`",
+          "meaning": "📁 bìa hồ sơ / 🍝 mì ống"
+        },
+        {
+          "label": "`mesmo` → `mes-mo`",
+          "value": "/ʒ/ trước `m`",
+          "meaning": "cũng, chính"
+        },
+        {
+          "label": "`dois` (đứng riêng)",
+          "value": "/ʃ/ ở cuối",
+          "meaning": "số hai"
+        },
+        {
+          "label": "`os amigos`",
+          "value": "`s` nối qua nguyên âm, gần /z/",
+          "meaning": "những người bạn"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "M và N làm nguyên âm phía trước thành âm mũi",
+      "summary": "Học m và n làm nguyên âm phía trước thành âm mũi. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: M và N làm nguyên âm phía trước thành âm mũi.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bé nghe cặp:** `cama` (giường) ↔ `campo` (cánh đồng). Trong `cam-po`, `m` đứng **cuối âm tiết trước p** làm `a` mang âm mũi; trong `ca-ma`, `m` mở đầu âm tiết mới. Không đọc thêm tiếng “mờ” sau `cam`."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Từ",
+              "Tách chữ theo âm tiết",
+              "Nghĩa"
+            ],
+            [
+              "`campo`",
+              "**CAM**-po",
+              "đồng ruộng"
+            ],
+            [
+              "`canto`",
+              "**CAN**-to",
+              "góc / tiếng hát (tùy ngữ cảnh)"
+            ],
+            [
+              "`tempo`",
+              "**TEM**-po",
+              "thời gian / thời tiết"
+            ],
+            [
+              "`tinta`",
+              "**TIN**-ta",
+              "mực / sơn"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** khoanh `m/n` báo mũi trong `campo/canto`; điền `cam__o` = campo (p), `can__o` = canto (t). **Nhớ cách viết:** `m` trước `p/b`, `n` thường trước phụ âm khác."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`campo`",
+          "value": "**CAM**-po",
+          "meaning": "đồng ruộng"
+        },
+        {
+          "label": "`canto`",
+          "value": "**CAN**-to",
+          "meaning": "góc / tiếng hát (tùy ngữ cảnh)"
+        },
+        {
+          "label": "`tempo`",
+          "value": "**TEM**-po",
+          "meaning": "thời gian / thời tiết"
+        },
+        {
+          "label": "`tinta`",
+          "value": "**TIN**-ta",
+          "meaning": "mực / sơn"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Đọc âm mũi viết bằng ã, õ, ão, ãe và õe",
+      "summary": "Học đọc âm mũi viết bằng ã, õ, ão, ãe và õe. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Đọc âm mũi viết bằng ã, õ, ão, ãe và õe.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Người lớn nghe mẫu với bé:** `pão` 🍞 bánh mì, `mãe` 👩 mẹ, `irmã` chị/em gái, `limão` 🍋 chanh, `põe` (đặt/để). Dấu `~` ở đây **chỉ âm mũi**, không phải thanh ngã tiếng Việt."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhìn vần",
+              "Ghép thành từ",
+              "Âm tiết nhấn"
+            ],
+            [
+              "`ão`",
+              "`pão`, `li + mão → limão`",
+              "**PÃO**, li-**MÃO**"
+            ],
+            [
+              "`ãe`",
+              "`mãe`",
+              "**MÃE**"
+            ],
+            [
+              "`ã`",
+              "`ir + mã → irmã`",
+              "ir-**MÃ**"
+            ],
+            [
+              "`õe`",
+              "`põe`",
+              "**PÕE**"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** ghép `li + mão = ____`, khoanh phần mũi trong `mãe/pão/põe`. `ão` **không** đọc đơn giản như “ao” tiếng Việt; hãy bắt chước nguyên âm mũi + âm lướt qua bản thu pt-PT."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ão`",
+          "value": "`pão`, `li + mão → limão`",
+          "meaning": "**PÃO**, li-**MÃO**"
+        },
+        {
+          "label": "`ãe`",
+          "value": "`mãe`",
+          "meaning": "**MÃE**"
+        },
+        {
+          "label": "`ã`",
+          "value": "`ir + mã → irmã`",
+          "meaning": "ir-**MÃ**"
+        },
+        {
+          "label": "`õe`",
+          "value": "`põe`",
+          "meaning": "**PÕE**"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Hai nguyên âm cùng nằm trong một âm tiết",
+      "summary": "Học hai nguyên âm cùng nằm trong một âm tiết. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Hai nguyên âm cùng nằm trong một âm tiết.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Một nhịp tay cho mỗi ô vần:** `ai · ei · oi · au · eu · ou`."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Ghép vần",
+              "Từ",
+              "Nghĩa"
+            ],
+            [
+              "`p + ai`",
+              "`pai`",
+              "bố"
+            ],
+            [
+              "`l + ei + te`",
+              "`leite` (**LEI**-te)",
+              "sữa"
+            ],
+            [
+              "`b + oi`",
+              "`boi`",
+              "bò đực"
+            ],
+            [
+              "`p + au`",
+              "`pau`",
+              "que gỗ"
+            ],
+            [
+              "`m + eu`",
+              "`meu`",
+              "của tôi (giống đực)"
+            ],
+            [
+              "`r + ou + pa`",
+              "`roupa` (**ROU**-pa)",
+              "quần áo"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Chú ý pt-PT:** `ei` và `ou` có thể nghe **khác nhau theo vùng và từ**; đừng mặc định thay mọi `ou` bằng /o/ như lời nói quen thuộc ở Brazil. `leite` vẫn có `e` cuối **rất yếu**, không đọc ra /i/ rõ theo kiểu pt-BR."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** tách `roupa` thành `____-____`; khoanh nguyên âm đi cùng trong `leite`. **Đọc câu:** `O pai vê a roupa.` — Bố nhìn thấy quần áo."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`p + ai`",
+          "value": "`pai`",
+          "meaning": "bố"
+        },
+        {
+          "label": "`l + ei + te`",
+          "value": "`leite` (**LEI**-te)",
+          "meaning": "sữa"
+        },
+        {
+          "label": "`b + oi`",
+          "value": "`boi`",
+          "meaning": "bò đực"
+        },
+        {
+          "label": "`p + au`",
+          "value": "`pau`",
+          "meaning": "que gỗ"
+        },
+        {
+          "label": "`m + eu`",
+          "value": "`meu`",
+          "meaning": "của tôi (giống đực)"
+        },
+        {
+          "label": "`r + ou + pa`",
+          "value": "`roupa` (**ROU**-pa)",
+          "meaning": "quần áo"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Hai nguyên âm đứng cạnh nhưng đọc thành hai nhịp",
+      "summary": "Học hai nguyên âm đứng cạnh nhưng đọc thành hai nhịp. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Hai nguyên âm đứng cạnh nhưng đọc thành hai nhịp.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**So sánh:** `pai` = **một** âm tiết; `país` = pa-**ÍS**, **hai** âm tiết. `lua` = **LU**-a (mặt trăng); `saúde` = sa-**Ú**-de (sức khỏe); `baú` = ba-**Ú** (rương)."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé nghe và vỗ:** `pai / país / lua / saúde`: khoanh các từ cần **hai hoặc ba nhịp**; viết `pa-ís`, `lu-a`, `sa-ú-de`. **Đọc câu:** `A lua é bonita.` — Mặt trăng đẹp. Người lớn giúp từ `bonita`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Nhớ:** dấu `í/ú` trong `país/saúde` giúp thấy âm tiết riêng có trọng âm; không được xóa dấu. Một số cách nói nhanh có thể nối âm; khi tập đọc cứ dựa theo tách âm tiết viết đúng."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 21,
+      "title": "Các dấu viết trong tiếng Bồ Đào Nha có ý nghĩa gì?",
+      "summary": "Học các dấu viết trong tiếng bồ đào nha có ý nghĩa gì?. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các dấu viết trong tiếng Bồ Đào Nha có ý nghĩa gì?.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Dấu/cách viết",
+              "Chức năng cần nhớ",
+              "Ví dụ có nghĩa"
+            ],
+            [
+              "`á é í ó ú`",
+              "dấu sắc chữ viết: nêu âm tiết nhấn, `é/ó` thường mở",
+              "`pá`, `pé`, `café`, `avó`"
+            ],
+            [
+              "`â ê ô`",
+              "dấu mũ chữ viết: nêu âm tiết nhấn; `ê/ô` thường khép",
+              "`vê`, `avô`, `lâmpada`"
+            ],
+            [
+              "`ã õ`",
+              "âm mũi; không phải lúc nào cũng nằm ở âm tiết mạnh",
+              "`pão`, `irmã`, `órgão`"
+            ],
+            [
+              "`à`",
+              "dấu huyền chữ viết biểu thị **a + a** (giới từ + mạo từ), **không đánh trọng âm**",
+              "`Vou à escola.` — Tôi đi đến trường."
+            ],
+            [
+              "`ç`",
+              "chữ c có móc cho âm /s/ trước a/o/u",
+              "`taça`, `almoço`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé so cặp:** `avó` = bà, `avô` = ông. `órgão` = cơ quan: nhấn **ÓR**-gão dù dấu `~` ở âm tiết sau. **Bé làm:** điền `av_` cho bà/ông; chỉ dấu nào **không phải** dấu nhấn trong `à` và `órgão`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`á é í ó ú`",
+          "value": "dấu sắc chữ viết: nêu âm tiết nhấn, `é/ó` thường mở",
+          "meaning": "`pá`, `pé`, `café`, `avó`"
+        },
+        {
+          "label": "`â ê ô`",
+          "value": "dấu mũ chữ viết: nêu âm tiết nhấn; `ê/ô` thường khép",
+          "meaning": "`vê`, `avô`, `lâmpada`"
+        },
+        {
+          "label": "`ã õ`",
+          "value": "âm mũi; không phải lúc nào cũng nằm ở âm tiết mạnh",
+          "meaning": "`pão`, `irmã`, `órgão`"
+        },
+        {
+          "label": "`à`",
+          "value": "dấu huyền chữ viết biểu thị **a + a** (giới từ + mạo từ), **không đánh trọng âm**",
+          "meaning": "`Vou à escola.` — Tôi đi đến trường."
+        },
+        {
+          "label": "`ç`",
+          "value": "chữ c có móc cho âm /s/ trước a/o/u",
+          "meaning": "`taça`, `almoço`"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Trọng âm và cách đọc âm cuối ở Portugal",
+      "summary": "Học trọng âm và cách đọc âm cuối ở portugal. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Trọng âm và cách đọc âm cuối ở Portugal.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Mẹo bước đầu:** từ nhiều âm tiết không có dấu, kết thúc bằng `-a/-e/-o` (đôi khi thêm `-s`), `-am/-em/-ens` thường nhấn **áp chót**: **CA**-sa, **BO**-lo, **HO**-mem; nhiều từ kết thúc bằng `-r/-l/-z/-i/-u/-im` thường nhấn **cuối**: fa-**LAR**, pa-**PEL**, fe-**LIZ**, a-**QUI**, ta-**TU**, jar-**DIM**. Có ngoại lệ; từ có dấu hãy nhìn dấu, từ chưa chắc hãy tra nghe."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Cuối âm tiết",
+              "Nghe giọng pt-PT chuẩn phổ biến",
+              "Từ ví dụ"
+            ],
+            [
+              "`l`",
+              "l tối /ɫ/ ở cuối âm tiết, **không tự động đổi thành /w/**",
+              "`sol` (mặt trời), `papel` (giấy)"
+            ],
+            [
+              "`r`",
+              "vẫn có âm r cuối, có biến thể giọng",
+              "`mar` (biển), `falar` (nói)"
+            ],
+            [
+              "`s`/`z` cuối cụm",
+              "thường gần /ʃ/",
+              "`dois` (hai), `feliz` (vui)"
+            ],
+            [
+              "`m` cuối",
+              "âm trước mang tính mũi/dạng lướt mũi",
+              "`bem` (tốt), `bom` (tốt)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** vỗ đúng phần nhấn trong `ca-sa`, `fa-lar`, `pa-pel`; viết chữ cuối của `so_` và `ma_` theo hình ☀️/🌊. **Không viết như nghe:** `sol` vẫn có l, `falar` vẫn có r."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`l`",
+          "value": "l tối /ɫ/ ở cuối âm tiết, **không tự động đổi thành /w/**",
+          "meaning": "`sol` (mặt trời), `papel` (giấy)"
+        },
+        {
+          "label": "`r`",
+          "value": "vẫn có âm r cuối, có biến thể giọng",
+          "meaning": "`mar` (biển), `falar` (nói)"
+        },
+        {
+          "label": "`s`/`z` cuối cụm",
+          "value": "thường gần /ʃ/",
+          "meaning": "`dois` (hai), `feliz` (vui)"
+        },
+        {
+          "label": "`m` cuối",
+          "value": "âm trước mang tính mũi/dạng lướt mũi",
+          "meaning": "`bem` (tốt), `bom` (tốt)"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Đọc liền hai phụ âm, không thêm âm chen giữa",
+      "summary": "Học đọc liền hai phụ âm, không thêm âm chen giữa. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Đọc liền hai phụ âm, không thêm âm chen giữa.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Thẻ ghép:** `pr + a → pra`; `br + a → bra`; `tr + e → tre`; `fl + o → flo`; `li + vro → livro`."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Từ",
+              "Chia âm tiết",
+              "Nghĩa"
+            ],
+            [
+              "`prato`",
+              "**PRA**-to",
+              "🍽️ đĩa"
+            ],
+            [
+              "`bravo`",
+              "**BRA**-vo",
+              "giỏi / dũng cảm (theo ngữ cảnh)"
+            ],
+            [
+              "`trevo`",
+              "**TRE**-vo",
+              "🍀 cỏ ba lá"
+            ],
+            [
+              "`flor`",
+              "**FLOR**",
+              "🌼 hoa"
+            ],
+            [
+              "`livro`",
+              "**LI**-vro",
+              "📖 sách"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** phân biệt `pato` (vịt) và `prato` (đĩa) — thêm chữ nào? Đọc `prato` một hơi ở đầu **pra**, không thêm “pờ-rờ-a”. `livro` không tách thành `liv-ro` khi viết tách âm tiết."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`prato`",
+          "value": "**PRA**-to",
+          "meaning": "🍽️ đĩa"
+        },
+        {
+          "label": "`bravo`",
+          "value": "**BRA**-vo",
+          "meaning": "giỏi / dũng cảm (theo ngữ cảnh)"
+        },
+        {
+          "label": "`trevo`",
+          "value": "**TRE**-vo",
+          "meaning": "🍀 cỏ ba lá"
+        },
+        {
+          "label": "`flor`",
+          "value": "**FLOR**",
+          "meaning": "🌼 hoa"
+        },
+        {
+          "label": "`livro`",
+          "value": "**LI**-vro",
+          "meaning": "📖 sách"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Các cách đọc của X, chữ H và từ dùng ở Portugal",
+      "summary": "Học các cách đọc của x, chữ h và từ dùng ở portugal. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các cách đọc của X, chữ H và từ dùng ở Portugal.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Cẩn thận với X:** `xarope` (xa-**RO**-pe, xi-rô; x /ʃ/), `táxi` (**TÁ**-xi, xe taxi; x /ks/), `exame` (e-**XA**-me, bài kiểm tra; x /z/), `próximo` (**PRÓ**-xi-mo, gần; x /s/). Không có một âm duy nhất để áp cho mọi từ có `x`. `h` đầu từ thường câm như trong `hoje` (**HO**-je, hôm nay), nhưng `h` trong `ch/lh/nh` **phải giữ theo cặp**."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bốn hình ở Portugal:** ☕ `chávena` (**CHÁ**-ve-na: tách uống trà); 🍦 `gelado` (ge-**LA**-do: kem); 🚌 `autocarro` (au-to-**CAR**-ro: xe buýt); 🚆 `comboio` (com-**BOI**-o: tàu hỏa). Đây là các từ thông dụng ở Bồ Đào Nha. Không nhầm “xícara / sorvete / ônibus / trem” quen trong tiếng Brazil là từ đích của quyển này. Từ `telemóvel` (te-le-**MÓ**-vel) = điện thoại di động; `pequeno-almoço` = bữa sáng, để tra và học sau."
+        },
+        {
+          "type": "note",
+          "text": "**Bé làm:** chọn `chávena` cho ☕, `comboio` cho 🚆; đọc `O gelado está na chávena.` — Kem ở trong tách. Tìm `x` ở từ `táxi` và nói vì sao phải nghe từ này trước khi đoán âm."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 25,
+      "title": "Các âm nguyên âm miệng khi được nhấn",
+      "summary": "Học các âm nguyên âm miệng khi được nhấn. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các âm nguyên âm miệng khi được nhấn.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bé nghe trước, người lớn dùng bảng tra:** năm chữ `a e i o u` có thể biểu thị **tám âm nguyên âm miệng nổi bật** trong mô tả phổ biến của pt-PT: /a, ɐ, ɛ, e, i, ɔ, o, u/. /ɐ/ nhấn có phạm vi hạn chế; cách hiện thực còn tùy vùng và vị trí. Một số mô hình phân tích gộp bớt âm vị; bảng này là **bản đồ nghe**, không phải tám chữ cái."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Âm (IPA)",
+              "Thường nhìn thấy",
+              "Nghe trong từ pt-PT",
+              "Nhớ"
+            ],
+            [
+              "/a/",
+              "`a`, `á`",
+              "`pá` (bố, thân mật)",
+              "miệng mở"
+            ],
+            [
+              "/ɐ/",
+              "`a` trước m/n/nh mở đầu âm tiết tiếp",
+              "`cama` (**CA**-ma, giường)",
+              "a hẹp hơn; **không** nhầm với `cam-po` mũi"
+            ],
+            [
+              "/ɛ/",
+              "`é`, hoặc `e` không dấu",
+              "`pé` (bàn chân), `belo` (**BE**-lo, đẹp)",
+              "e mở"
+            ],
+            [
+              "/e/",
+              "`ê`, hoặc `e` không dấu",
+              "`vê` (nhìn thấy), `gelo` (**GE**-lo, nước đá)",
+              "e khép"
+            ],
+            [
+              "/i/",
+              "`i`, `í`",
+              "`vi` (đã thấy), `dia` (**DI**-a, ngày)",
+              "i rõ"
+            ],
+            [
+              "/ɔ/",
+              "`ó`, hoặc `o` không dấu",
+              "`avó` (bà), `bola` (**BO**-la, bóng)",
+              "o mở"
+            ],
+            [
+              "/o/",
+              "`ô`, hoặc `o` không dấu",
+              "`avô` (ông), `bolo` (**BO**-lo, bánh)",
+              "o khép"
+            ],
+            [
+              "/u/",
+              "`u`, `ú`",
+              "`tu` (bạn), `lua` (**LU**-a, trăng)",
+              "u rõ"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `p + é → pé`; `b + o + la → bola`; `b + o + lo → bolo`. **Đọc câu:** `A avó vê o bolo.` — Bà nhìn thấy bánh. **Tự kiểm:** khoanh cặp chỉ *cùng một chữ nguyên âm* nhưng *hai cách mở/khép*: `avó/avô`, `bola/bolo`. **Chú ý:** `belo`, `bola`, `bolo` không có dấu vẫn phải nghe và nhớ chất âm nhấn."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "/a/",
+          "value": "`a`, `á`",
+          "meaning": "`pá` (bố, thân mật)"
+        },
+        {
+          "label": "/ɐ/",
+          "value": "`a` trước m/n/nh mở đầu âm tiết tiếp",
+          "meaning": "`cama` (**CA**-ma, giường)"
+        },
+        {
+          "label": "/ɛ/",
+          "value": "`é`, hoặc `e` không dấu",
+          "meaning": "`pé` (bàn chân), `belo` (**BE**-lo, đẹp)"
+        },
+        {
+          "label": "/e/",
+          "value": "`ê`, hoặc `e` không dấu",
+          "meaning": "`vê` (nhìn thấy), `gelo` (**GE**-lo, nước đá)"
+        },
+        {
+          "label": "/i/",
+          "value": "`i`, `í`",
+          "meaning": "`vi` (đã thấy), `dia` (**DI**-a, ngày)"
+        },
+        {
+          "label": "/ɔ/",
+          "value": "`ó`, hoặc `o` không dấu",
+          "meaning": "`avó` (bà), `bola` (**BO**-la, bóng)"
+        },
+        {
+          "label": "/o/",
+          "value": "`ô`, hoặc `o` không dấu",
+          "meaning": "`avô` (ông), `bolo` (**BO**-lo, bánh)"
+        },
+        {
+          "label": "/u/",
+          "value": "`u`, `ú`",
+          "meaning": "`tu` (bạn), `lua` (**LU**-a, trăng)"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Nguyên âm không nhấn thường đọc yếu đi",
+      "summary": "Học nguyên âm không nhấn thường đọc yếu đi. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Nguyên âm không nhấn thường đọc yếu đi.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Sơ đồ nghe:** `a` không nhấn → thường [ɐ]; `e` không nhấn → thường [ɨ] (có thể mất trong lời nói nhanh); `o` không nhấn → thường [u]. Chữ `i/u` thường vẫn có chất âm cao tương ứng. Ở đầu một số từ và sát nguyên âm khác, `e` có thể nghe [i]; cũng có ngoại lệ giữ âm mở khi không nhấn. **Không** xóa chữ khi viết."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhìn",
+              "Chữ cần nhìn",
+              "Việc bé làm"
+            ],
+            [
+              "`pato` (**PA**-to)",
+              "o cuối nhẹ",
+              "tô `o` không nhấn"
+            ],
+            [
+              "`casa` (**CA**-sa)",
+              "a cuối nhẹ",
+              "tô `a` không nhấn"
+            ],
+            [
+              "`chave` (**CHA**-ve)",
+              "e cuối rất yếu",
+              "tô `e` không nhấn"
+            ],
+            [
+              "`menina` (me-**NI**-na)",
+              "e đầu yếu",
+              "gạch dưới `me` rồi đọc liền"
+            ],
+            [
+              "`escola` (es-**CO**-la)",
+              "e đầu có thể rút gọn mạnh",
+              "vẫn viết đủ `es-`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `es + co + la → escola` (trường học). **Đọc câu:** `A menina está na escola.` — Bé gái ở trường. **Tự kiểm:** chép đúng `chave` và `escola` sau khi nghe — không xóa `e`. Gợi ý: nói cẩn thận có thể còn nghe [ɨ], nói nhanh thường rút hơn."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`pato` (**PA**-to)",
+          "value": "o cuối nhẹ",
+          "meaning": "tô `o` không nhấn"
+        },
+        {
+          "label": "`casa` (**CA**-sa)",
+          "value": "a cuối nhẹ",
+          "meaning": "tô `a` không nhấn"
+        },
+        {
+          "label": "`chave` (**CHA**-ve)",
+          "value": "e cuối rất yếu",
+          "meaning": "tô `e` không nhấn"
+        },
+        {
+          "label": "`menina` (me-**NI**-na)",
+          "value": "e đầu yếu",
+          "meaning": "gạch dưới `me` rồi đọc liền"
+        },
+        {
+          "label": "`escola` (es-**CO**-la)",
+          "value": "e đầu có thể rút gọn mạnh",
+          "meaning": "vẫn viết đủ `es-`"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Các cặp nguyên âm miệng trong một âm tiết",
+      "summary": "Học các cặp nguyên âm miệng trong một âm tiết. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các cặp nguyên âm miệng trong một âm tiết.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bé vỗ một nhịp cho cặp trong cùng âm tiết.** /j/ là âm lướt ngắn kiểu i, /w/ là âm lướt ngắn kiểu u. Cặp chữ **không phải âm vị mới** như phụ âm đơn; một số cặp có biến thể chất âm theo giọng hoặc từ."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhóm kết thúc bằng i",
+              "Từ thật",
+              "Nhóm kết thúc bằng u",
+              "Từ thật"
+            ],
+            [
+              "`ai`",
+              "`pai` (bố), `mais` (hơn)",
+              "`au`",
+              "`pau` (que), `mau` (xấu)"
+            ],
+            [
+              "`ei`",
+              "`leite` (**LEI**-te, sữa)",
+              "`eu`",
+              "`meu` (của tôi), `seu` (của bạn/anh ấy)"
+            ],
+            [
+              "`éi`",
+              "`papéis` (pa-**PÉIS**, các tờ giấy)",
+              "`éu`",
+              "`céu` (trời)"
+            ],
+            [
+              "`oi`",
+              "`boi` (bò đực), `noite` (**NOI**-te, đêm)",
+              "`iu`",
+              "`viu` (đã nhìn thấy)"
+            ],
+            [
+              "`ói`",
+              "`herói` (he-**RÓI**, anh hùng)",
+              "`ou`",
+              "`roupa` (**ROU**-pa, quần áo)"
+            ],
+            [
+              "`ui`",
+              "`fui` (tôi đã đi)",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Chú ý:** `ei` và `ou` có thể đơn giản hóa hoặc đổi chất theo vùng; `ui` trong `muito` là **âm mũi đặc biệt** (bài 31), không lấy làm mẫu cho mọi `ui`. **Ghép:** `n + oi + te → noite`. **Đọc câu:** `O meu pai viu o boi.` — Bố tôi đã thấy con bò đực. **Tự kiểm:** khoanh cặp giữ nguyên khi tách `lei-te`, `rou-pa`, `céu`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ai`",
+          "value": "`pai` (bố), `mais` (hơn)",
+          "meaning": "`au`"
+        },
+        {
+          "label": "`ei`",
+          "value": "`leite` (**LEI**-te, sữa)",
+          "meaning": "`eu`"
+        },
+        {
+          "label": "`éi`",
+          "value": "`papéis` (pa-**PÉIS**, các tờ giấy)",
+          "meaning": "`éu`"
+        },
+        {
+          "label": "`oi`",
+          "value": "`boi` (bò đực), `noite` (**NOI**-te, đêm)",
+          "meaning": "`iu`"
+        },
+        {
+          "label": "`ói`",
+          "value": "`herói` (he-**RÓI**, anh hùng)",
+          "meaning": "`ou`"
+        },
+        {
+          "label": "`ui`",
+          "value": "`fui` (tôi đã đi)",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Âm lướt đầu từ và ba nguyên âm đứng liền nhau",
+      "summary": "Học âm lướt đầu từ và ba nguyên âm đứng liền nhau. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Âm lướt đầu từ và ba nguyên âm đứng liền nhau.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Nhìn – nghe:** chữ `u` hoặc `i` trước nguyên âm khác *có khi* làm âm lướt /w/ hoặc /j/: `quatro` (**QUA**-tro, bốn), `água` (**Á**-gua, nước), `guarda` (**GUAR**-da, người gác / bảo vệ). Có trường hợp hai nguyên âm tách hai âm tiết: `lua` = **LU**-a. **Nghe từ thật**, không biến mọi `ua` thành một luật duy nhất."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ba chữ cùng âm tiết trong một số từ (triphthong/chuỗi âm lướt):** `quais` (những cái nào, một âm tiết), `iguais` (i-**GUAIS**, giống nhau), `Paraguai` (Pa-ra-**GUAI**, tên nước), `saguão` (sa-**GUÃO**, tiền sảnh). Với `guão`, phần `ão` vẫn là âm mũi. Ở một số cách phân tích ngữ âm, cách phân đoạn âm lướt khác nhau; để tập đọc, **giữ cụm chữ trong cùng âm tiết ở các từ mẫu này**."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `i + guais → iguais`; `Pa + ra + guai → Paraguai`. **Đọc câu:** `Os dois livros são iguais.` — Hai quyển sách giống nhau. **Tự kiểm:** gạch dưới `uais` trong `iguais`, `uai` trong `Paraguai`, `ua` trong `lua`; từ nào có `u` thành một âm tiết riêng?"
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 29,
+      "title": "Năm âm nguyên âm mũi cơ bản",
+      "summary": "Học năm âm nguyên âm mũi cơ bản. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Năm âm nguyên âm mũi cơ bản.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bé nghe theo mẫu:** phát âm rồi giữ hơi qua mũi thay vì đọc thêm hẳn một tiếng m/n ở cuối. Trong bảng này, `m/n` **đóng âm tiết** trước phụ âm khác. Dấu ngã ở `ã` cũng có thể ghi âm mũi."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Âm mũi (IPA)",
+              "Tổ hợp nhìn thấy",
+              "Từ mẫu"
+            ],
+            [
+              "/ɐ̃/",
+              "`am/an/ã`",
+              "`campo` (**CAM**-po, đồng); `canto` (**CAN**-to, góc); `irmã` (chị/em gái)"
+            ],
+            [
+              "/ẽ/",
+              "`em/en`",
+              "`tempo` (**TEM**-po, thời gian); `vento` (**VEN**-to, gió)"
+            ],
+            [
+              "/ĩ/",
+              "`im/in`",
+              "`limpo` (**LIM**-po, sạch); `tinta` (**TIN**-ta, mực)"
+            ],
+            [
+              "/õ/",
+              "`om/on/õ`",
+              "`sombra` (**SOM**-bra, bóng râm); `ponte` (**PON**-te, cầu)"
+            ],
+            [
+              "/ũ/",
+              "`um/un`",
+              "`mundo` (**MUN**-do, thế giới); `fundo` (**FUN**-do, đáy)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Quan trọng:** `cama`, `banana`, `ninho` có `m/n/nh` ở **đầu âm tiết sau**; nguyên âm trước chúng **không tự động** là một trong năm nguyên âm mũi có `m/n` cuối âm tiết trên. **Ghép:** `tem + po → tempo`; `mun + do → mundo`. **Đọc câu:** `Há vento no campo.` — Có gió trên cánh đồng. **Tự kiểm:** tìm tổ hợp báo mũi ở `limpo, ponte, mundo`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "/ɐ̃/",
+          "value": "`am/an/ã`",
+          "meaning": "`campo` (**CAM**-po, đồng); `canto` (**CAN**-to, góc); `irmã` (chị/em gái)"
+        },
+        {
+          "label": "/ẽ/",
+          "value": "`em/en`",
+          "meaning": "`tempo` (**TEM**-po, thời gian); `vento` (**VEN**-to, gió)"
+        },
+        {
+          "label": "/ĩ/",
+          "value": "`im/in`",
+          "meaning": "`limpo` (**LIM**-po, sạch); `tinta` (**TIN**-ta, mực)"
+        },
+        {
+          "label": "/õ/",
+          "value": "`om/on/õ`",
+          "meaning": "`sombra` (**SOM**-bra, bóng râm); `ponte` (**PON**-te, cầu)"
+        },
+        {
+          "label": "/ũ/",
+          "value": "`um/un`",
+          "meaning": "`mundo` (**MUN**-do, thế giới); `fundo` (**FUN**-do, đáy)"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Các vần mũi ão, ãe và õe",
+      "summary": "Học các vần mũi ão, ãe và õe. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các vần mũi ão, ãe và õe.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Vần",
+              "Ghép và từ",
+              "Tác dụng"
+            ],
+            [
+              "`ão`",
+              "`pão`; `li + mão → limão`",
+              "âm mũi + lướt, không phải “ao” tiếng Việt"
+            ],
+            [
+              "`ãe`",
+              "`mãe`; `pães` (nhiều ổ bánh)",
+              "âm mũi + lướt kiểu i"
+            ],
+            [
+              "`õe`",
+              "`põe`; `li + mões → limões` (nhiều quả chanh)",
+              "âm mũi khác `ãe`"
+            ],
+            [
+              "`ãi`",
+              "`cãibra` (cơn chuột rút)",
+              "gặp ít hơn; người lớn cho nghe"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé học như sơ đồ vần:** `pão` ↔ `pães`; `limão` ↔ `limões`. *Các từ tận cùng `-ão` không có một kiểu số nhiều duy nhất:* còn có `irmão → irmãos` (anh/em trai); học hình thức số nhiều **từng từ**, không tự đổi mọi `ão` thành `ões`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `li + mões → limões`. **Đọc câu:** `A mãe compra pão e limões.` — Mẹ mua bánh mì và chanh. **Tự kiểm:** viết vần của `pães`, `põe` và nói có giống nhau không."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ão`",
+          "value": "`pão`; `li + mão → limão`",
+          "meaning": "âm mũi + lướt, không phải “ao” tiếng Việt"
+        },
+        {
+          "label": "`ãe`",
+          "value": "`mãe`; `pães` (nhiều ổ bánh)",
+          "meaning": "âm mũi + lướt kiểu i"
+        },
+        {
+          "label": "`õe`",
+          "value": "`põe`; `li + mões → limões` (nhiều quả chanh)",
+          "meaning": "âm mũi khác `ãe`"
+        },
+        {
+          "label": "`ãi`",
+          "value": "`cãibra` (cơn chuột rút)",
+          "meaning": "gặp ít hơn; người lớn cho nghe"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Những cách viết âm mũi khác: em, am, om, im, um",
+      "summary": "Học những cách viết âm mũi khác: em, am, om, im, um. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Những cách viết âm mũi khác: em, am, om, im, um.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Từ tận cùng có `m` không nhất thiết phát âm một phụ âm m riêng:**"
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Đuôi nhìn thấy",
+              "Từ",
+              "Nghe để so sánh"
+            ],
+            [
+              "`-em/-ém`",
+              "`bem` (tốt), `também` (cũng)",
+              "nguyên âm mũi + âm lướt; *em* có biến thể vùng"
+            ],
+            [
+              "`-am`",
+              "`falam` (**FA**-lam, họ nói)",
+              "thường âm mũi có lướt, **không nhấn cuối**"
+            ],
+            [
+              "`-om`",
+              "`bom` (tốt), `som` (âm thanh)",
+              "âm mũi tròn, có thể nghe lướt nhẹ"
+            ],
+            [
+              "`-im`",
+              "`sim` (vâng), `jardim` (vườn)",
+              "âm mũi /ĩ/"
+            ],
+            [
+              "`-um`",
+              "`um` (một), `algum` (một vài)",
+              "âm mũi /ũ/"
+            ],
+            [
+              "`ui`",
+              "`muito` (**MUI**-to, rất/nhiều)",
+              "ngoại lệ quen: `ui` nghe có tính mũi dù không có dấu ngã"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé nối chữ:** `bem` khác `mãe` về cách viết, dù ở một số giọng chúng có thể nghe khá gần. `falam` (họ nói) khác `falarão` (họ sẽ nói) cả **trọng âm** lẫn chữ viết. **Ghép:** `jar + dim → jardim`. **Đọc câu:** `Há um jardim muito bonito.` — Có một khu vườn rất đẹp. **Tự kiểm:** tìm ba từ cuối `m` trong bảng; đánh dấu từ có `ui` mũi đặc biệt."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`-em/-ém`",
+          "value": "`bem` (tốt), `também` (cũng)",
+          "meaning": "nguyên âm mũi + âm lướt; *em* có biến thể vùng"
+        },
+        {
+          "label": "`-am`",
+          "value": "`falam` (**FA**-lam, họ nói)",
+          "meaning": "thường âm mũi có lướt, **không nhấn cuối**"
+        },
+        {
+          "label": "`-om`",
+          "value": "`bom` (tốt), `som` (âm thanh)",
+          "meaning": "âm mũi tròn, có thể nghe lướt nhẹ"
+        },
+        {
+          "label": "`-im`",
+          "value": "`sim` (vâng), `jardim` (vườn)",
+          "meaning": "âm mũi /ĩ/"
+        },
+        {
+          "label": "`-um`",
+          "value": "`um` (một), `algum` (một vài)",
+          "meaning": "âm mũi /ũ/"
+        },
+        {
+          "label": "`ui`",
+          "value": "`muito` (**MUI**-to, rất/nhiều)",
+          "meaning": "ngoại lệ quen: `ui` nghe có tính mũi dù không có dấu ngã"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Bảng tổng hợp các phụ âm chính (dành cho người hướng dẫn)",
+      "summary": "Học bảng tổng hợp các phụ âm chính (dành cho người hướng dẫn). Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Bảng tổng hợp các phụ âm chính (dành cho người hướng dẫn).",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Dạy trẻ qua *âm + từ*, không bắt thuộc bảng IPA.** Bảng gom các phụ âm đối lập cơ bản trong tiếng Bồ Đào Nha châu Âu phổ thông; có **19 âm phụ âm lõi** nếu đếm hai R riêng, bên cạnh hai âm lướt /j, w/ trong vần. Phát âm phụ thuộc bối cảnh; [β, ð, ɣ] là cách thực hiện thường gặp của /b, d, g/ giữa nguyên âm, **không phải ba chữ cái hoặc ba âm vị mới cần ghép**."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhóm",
+              "Âm → chữ thông dụng → từ mẫu",
+              "Con luyện"
+            ],
+            [
+              "âm tắc môi và đầu lưỡi",
+              "/p/ `p` pato; /b/ `b` bola; /t/ `t` teto; /d/ `d` dado",
+              "`pa–ba`, `ta–da`"
+            ],
+            [
+              "âm vòm sau",
+              "/k/ `c/qu` casa/queijo; /g/ `g/gu` gato/guitarra",
+              "`ca–ga`, `que–gue`"
+            ],
+            [
+              "hơi môi",
+              "/f/ `f` faca; /v/ `v` vaca",
+              "`fa–va`"
+            ],
+            [
+              "âm xì",
+              "/s/ `s/ss/c/ç` sapo/massa/cebola/taça; /z/ `z/s` zero/casa",
+              "`sa–za`"
+            ],
+            [
+              "âm “sh/zh”",
+              "/ʃ/ `ch/x` chave/peixe; /ʒ/ `j/g` janela/gelo",
+              "`cha–ja`"
+            ],
+            [
+              "âm mũi phụ âm",
+              "/m/ `m` mala; /n/ `n` navio; /ɲ/ `nh` ninho",
+              "`ma–na–nha`"
+            ],
+            [
+              "âm bên lưỡi",
+              "/l/ `l` lata; /ʎ/ `lh` filho",
+              "`la–lha`"
+            ],
+            [
+              "hai R",
+              "/ɾ/ `r` caro; R mạnh /ʁ/ (cũng có [r]) `r/rr` rato/carro",
+              "`caro–carro`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `na + vi + o → navio` (tàu thủy); `ja + ne + la → janela` (cửa sổ). **Đọc câu:** `O navio está no mar.` — Con tàu ở ngoài biển. **Tự kiểm:** nhóm nào có `ch`, nhóm nào có `nh`? Ghi nhớ trong nhiều vùng `b/d/g` giữa nguyên âm nhẹ hơn nhưng **vẫn viết b/d/g**. `/tʃ/`, `/dʒ/` gặp chủ yếu ở vài từ mượn như `tchau`, **không** dùng làm quy tắc thường cho `ti/di` ở Portugal."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "âm tắc môi và đầu lưỡi",
+          "value": "/p/ `p` pato; /b/ `b` bola; /t/ `t` teto; /d/ `d` dado",
+          "meaning": "`pa–ba`, `ta–da`"
+        },
+        {
+          "label": "âm vòm sau",
+          "value": "/k/ `c/qu` casa/queijo; /g/ `g/gu` gato/guitarra",
+          "meaning": "`ca–ga`, `que–gue`"
+        },
+        {
+          "label": "hơi môi",
+          "value": "/f/ `f` faca; /v/ `v` vaca",
+          "meaning": "`fa–va`"
+        },
+        {
+          "label": "âm xì",
+          "value": "/s/ `s/ss/c/ç` sapo/massa/cebola/taça; /z/ `z/s` zero/casa",
+          "meaning": "`sa–za`"
+        },
+        {
+          "label": "âm “sh/zh”",
+          "value": "/ʃ/ `ch/x` chave/peixe; /ʒ/ `j/g` janela/gelo",
+          "meaning": "`cha–ja`"
+        },
+        {
+          "label": "âm mũi phụ âm",
+          "value": "/m/ `m` mala; /n/ `n` navio; /ɲ/ `nh` ninho",
+          "meaning": "`ma–na–nha`"
+        },
+        {
+          "label": "âm bên lưỡi",
+          "value": "/l/ `l` lata; /ʎ/ `lh` filho",
+          "meaning": "`la–lha`"
+        },
+        {
+          "label": "hai R",
+          "value": "/ɾ/ `r` caro; R mạnh /ʁ/ (cũng có [r]) `r/rr` rato/carro",
+          "meaning": "`caro–carro`"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Chữ J và G có thể cùng phát âm /ʒ/",
+      "summary": "Học chữ j và g có thể cùng phát âm /ʒ/. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Chữ J và G có thể cùng phát âm /ʒ/.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "note",
+          "text": "**Sơ đồ:** `j + a/e/i/o/u` → `ja je ji jo ju` (trong từ thật, nguyên âm yếu đổi âm theo trọng âm). `g + e/i` cũng cho /ʒ/. Nhưng `g + a/o/u` cho /g/; muốn /ʒ/ trước `a/o/u` thường dùng `j`."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Âm đầu luyện",
+              "Từ thật",
+              "Nghĩa"
+            ],
+            [
+              "`ja`",
+              "`janela` (ja-**NE**-la)",
+              "cửa sổ"
+            ],
+            [
+              "`je`",
+              "`jeito` (**JEI**-to)",
+              "cách, kiểu"
+            ],
+            [
+              "`ji`",
+              "`jiboia` (ji-**BOI**-a)",
+              "trăn Nam Mỹ; từ mở rộng"
+            ],
+            [
+              "`jo`",
+              "`jogo` (**JO**-go)",
+              "trò chơi"
+            ],
+            [
+              "`ju`",
+              "`juiz` (ju-**IZ**)",
+              "thẩm phán"
+            ],
+            [
+              "`ge/gi`",
+              "`gelo`, `girafa`",
+              "nước đá, hươu cao cổ"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `ja + ne + la → janela`. **Đọc câu:** `A janela fica junto ao jardim.` — Cửa sổ ở gần vườn (người lớn đọc `fica, junto, ao`). **Tự kiểm:** gạch chữ tạo /ʒ/ trong `janela/gelo/jogo/girafa`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ja`",
+          "value": "`janela` (ja-**NE**-la)",
+          "meaning": "cửa sổ"
+        },
+        {
+          "label": "`je`",
+          "value": "`jeito` (**JEI**-to)",
+          "meaning": "cách, kiểu"
+        },
+        {
+          "label": "`ji`",
+          "value": "`jiboia` (ji-**BOI**-a)",
+          "meaning": "trăn Nam Mỹ; từ mở rộng"
+        },
+        {
+          "label": "`jo`",
+          "value": "`jogo` (**JO**-go)",
+          "meaning": "trò chơi"
+        },
+        {
+          "label": "`ju`",
+          "value": "`juiz` (ju-**IZ**)",
+          "meaning": "thẩm phán"
+        },
+        {
+          "label": "`ge/gi`",
+          "value": "`gelo`, `girafa`",
+          "meaning": "nước đá, hươu cao cổ"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Nhiều cách viết cùng phát âm /s/",
+      "summary": "Học nhiều cách viết cùng phát âm /s/. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Nhiều cách viết cùng phát âm /s/.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bảng ghép theo vị trí chữ:** `s + a → sa` ở **đầu từ**; `ss` ở **giữa hai nguyên âm**; `c` trước `e/i`; `ç` trước `a/o/u`; `sc` trước `e/i`; `sç` trước `a/o`; `xc` trước `e/i`. Một số từ `x` cũng đọc /s/: xem bài 36."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Cách viết",
+              "Từ mẫu",
+              "Ghép/nhìn"
+            ],
+            [
+              "`s`, `ss`",
+              "`sapo` (cóc), `massa` (bột)",
+              "sa-po, mas-sa"
+            ],
+            [
+              "`c`, `ç`",
+              "`cidade` (thành phố), `taça` (cúp)",
+              "ci-da-de, ta-ça"
+            ],
+            [
+              "`sc`",
+              "`nascer` (ra đời)",
+              "nas-cer; âm `/s/` của `sc` cần nghe cả vị trí"
+            ],
+            [
+              "`sç`",
+              "`cresça` (hãy lớn lên)",
+              "cres-ça; từ nâng cao"
+            ],
+            [
+              "`xc`",
+              "`excelente` (xuất sắc)",
+              "ex-ce-len-te; từ nâng cao"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Đừng nhầm “cùng âm” với “được viết tùy ý”:** chính tả của một từ phải học nguyên dạng. Trong `nascer`, `cresça`, `excelente`, còn những phụ âm quanh cụm có thể tạo âm trước đó; **không** dạy cả chuỗi như một âm tiết giả `sca/sça` cho mọi ngữ cảnh. **Ghép:** `ta + ça → taça`. **Đọc câu:** `A taça está na mesa.` — Cái cúp ở trên bàn. **Tự kiểm:** viết cặp chữ /s/ giữa nguyên âm của `massa` và chữ /s/ trước `a` của `taça`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`s`, `ss`",
+          "value": "`sapo` (cóc), `massa` (bột)",
+          "meaning": "sa-po, mas-sa"
+        },
+        {
+          "label": "`c`, `ç`",
+          "value": "`cidade` (thành phố), `taça` (cúp)",
+          "meaning": "ci-da-de, ta-ça"
+        },
+        {
+          "label": "`sc`",
+          "value": "`nascer` (ra đời)",
+          "meaning": "nas-cer; âm `/s/` của `sc` cần nghe cả vị trí"
+        },
+        {
+          "label": "`sç`",
+          "value": "`cresça` (hãy lớn lên)",
+          "meaning": "cres-ça; từ nâng cao"
+        },
+        {
+          "label": "`xc`",
+          "value": "`excelente` (xuất sắc)",
+          "meaning": "ex-ce-len-te; từ nâng cao"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Phân biệt âm /ʃ/ và /ʒ/ trong các từ",
+      "summary": "Học phân biệt âm /ʃ/ và /ʒ/ trong các từ. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Phân biệt âm /ʃ/ và /ʒ/ trong các từ.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "/ʃ/: `ch` trong `chave`, `x` trong `peixe`, `s` cuối âm tiết trong `pasta` / trước ngắt câu trong `dois`. /ʒ/: `j` trong `janela`, `g` trước e/i trong `gelo`, `s` cuối âm tiết trước âm hữu thanh trong `mesmo`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé nghe – nhìn:** `cha` ≠ `ja`; `pasta` ≠ `mesmo` ở âm `s` cuối âm tiết. Đọc từ `chave → cha-ve`, `peixe → pei-xe`, `janela → ja-ne-la` rồi nghe người lớn đọc nhanh. **Ghép:** `pei + xe → peixe` (cá). **Đọc câu:** `Há peixe na mesa.` — Có cá trên bàn. **Tự kiểm:** trong `chave, peixe, janela, mesmo`, hai từ nào có âm /ʃ/? /ʒ/ ở hai từ nào?"
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 36,
+      "title": "Âm /z/ và những cách đọc khác nhau của X",
+      "summary": "Học âm /z/ và những cách đọc khác nhau của x. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Âm /z/ và những cách đọc khác nhau của X.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**/z/** có thể viết `z` (`zero`), `s` ở giữa hai nguyên âm (`casa`), và `x` trong một số từ (`exame`). **`x` không phải phép ghép 1–1:**"
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Chữ x trong",
+              "Âm tiêu biểu",
+              "Nghĩa"
+            ],
+            [
+              "`xarope`",
+              "/ʃ/",
+              "xi-rô"
+            ],
+            [
+              "`exame`",
+              "/z/",
+              "bài kiểm tra"
+            ],
+            [
+              "`próximo`",
+              "/s/",
+              "gần nhất"
+            ],
+            [
+              "`táxi`",
+              "/ks/ (**hai** phụ âm)",
+              "xe taxi"
+            ],
+            [
+              "`hexágono`",
+              "có thể /gz/ ở cụm `x`",
+              "hình lục giác; từ tra thêm"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Người lớn:** tra đúng mục âm pt-PT; biến thể cụ thể có thể khác từ điển. `x` của `táxi` không phải một phụ âm ghép “mới”; nó ghi **chuỗi /k/+/s/**. **Ghép:** `e + xa + me → exame`. **Đọc câu:** `O táxi está perto da casa.` — Taxi ở gần nhà. **Tự kiểm:** từ nào có x = hai âm /ks/? từ nào có x = /z/?"
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`xarope`",
+          "value": "/ʃ/",
+          "meaning": "xi-rô"
+        },
+        {
+          "label": "`exame`",
+          "value": "/z/",
+          "meaning": "bài kiểm tra"
+        },
+        {
+          "label": "`próximo`",
+          "value": "/s/",
+          "meaning": "gần nhất"
+        },
+        {
+          "label": "`táxi`",
+          "value": "/ks/ (**hai** phụ âm)",
+          "meaning": "xe taxi"
+        },
+        {
+          "label": "`hexágono`",
+          "value": "có thể /gz/ ở cụm `x`",
+          "meaning": "hình lục giác; từ tra thêm"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Trong QU và GU, khi nào đọc chữ U?",
+      "summary": "Học trong qu và gu, khi nào đọc chữ u?. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Trong QU và GU, khi nào đọc chữ U?.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nhìn",
+              "u thế nào?",
+              "Từ thật"
+            ],
+            [
+              "`que/qui`",
+              "thường câm khi chỉ /k/",
+              "`queijo`, `quilo`"
+            ],
+            [
+              "`gue/gui`",
+              "thường câm khi chỉ /g/",
+              "`guerra`, `guitarra`"
+            ],
+            [
+              "`qua/quo`, `gua/guo`",
+              "thường có /w/",
+              "`quatro`, `quando`, `água`, `guarda`"
+            ],
+            [
+              "`que/qui`, `gue/gui` trong một số từ",
+              "u vẫn phát âm /w/",
+              "`cinquenta`, `aguentar`, `linguiça`, `pinguim`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Mẹo:** nghe cách **người Portugal** nói mỗi từ, chính tả hiện hành không dùng dấu hai chấm trên `ü` để chỉ u có tiếng. `/k/`, `/g/` không chỉ nằm trong một chữ đơn: trước e/i có thể cần `qu/gu`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `cin + quen + ta → cinquenta` (năm mươi); `pin + guim → pinguim` (🐧 chim cánh cụt). **Đọc câu:** `O pinguim está junto à água.` — Chim cánh cụt ở gần nước. **Tự kiểm:** đánh dấu “u đọc” trong `água, guitarra, aguentar, queijo`; đáp án không được dựa vào dấu `ü`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`que/qui`",
+          "value": "thường câm khi chỉ /k/",
+          "meaning": "`queijo`, `quilo`"
+        },
+        {
+          "label": "`gue/gui`",
+          "value": "thường câm khi chỉ /g/",
+          "meaning": "`guerra`, `guitarra`"
+        },
+        {
+          "label": "`qua/quo`, `gua/guo`",
+          "value": "thường có /w/",
+          "meaning": "`quatro`, `quando`, `água`, `guarda`"
+        },
+        {
+          "label": "`que/qui`, `gue/gui` trong một số từ",
+          "value": "u vẫn phát âm /w/",
+          "meaning": "`cinquenta`, `aguentar`, `linguiça`, `pinguim`"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "H, K, W và Y: nhận diện chữ, nghe từ mẫu",
+      "summary": "Học h, k, w và y: nhận diện chữ, nghe từ mẫu. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: H, K, W và Y: nhận diện chữ, nghe từ mẫu.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**H một mình đầu từ thường câm:** `hora` (**HO**-ra, giờ), `hoje` (**HO**-je, hôm nay). Nhưng H nằm trong `ch` /ʃ/, `lh` /ʎ/, `nh` /ɲ/ thì **giữ cả cặp**: `chá`, `filho`, `ninho`. **K/W/Y** nằm trong bảng chữ 26 chữ; thường gặp ở tên riêng, đơn vị/ký hiệu hoặc từ mượn, cách đọc **tùy xuất xứ từ**: `kiwi`, `web`, `yoga`. Không cần làm bảng “k + tất cả nguyên âm = từ Bồ Đào Nha bản địa”."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `ho + je → hoje`; ghép `n + h + o` trên **hai thẻ chữ đi cặp** `nh + o → nho`, không đọc `h` riêng. **Đọc câu:** `Hoje o filho vê o ninho.` — Hôm nay người con trai nhìn thấy tổ chim. **Tự kiểm:** khoanh H câm ở đầu `hora`; khoanh H là thành phần cặp ở `chave`."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 39,
+      "title": "Cách đọc R và L ở đầu hoặc cuối âm tiết",
+      "summary": "Học cách đọc r và l ở đầu hoặc cuối âm tiết. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Cách đọc R và L ở đầu hoặc cuối âm tiết.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Đổi vị trí → đổi âm:** `r` đầu từ/R mạnh trong `rato` (chuột); `rr` giữa nguyên âm/R mạnh trong `carro` (ô tô); `r` giữa nguyên âm/R nhẹ /ɾ/ trong `caro` (đắt); `r` trong `prato` nhẹ trong cụm `pr`. `r` cuối âm tiết trong `mar`, `porta`, `falar` phải **nghe thêm theo vùng**, không đồng nhất với R đầu từ."
+        },
+        {
+          "type": "paragraph",
+          "text": "**L:** `lata` (lon) có l đầu âm tiết; `sol`, `papel`, `alto` có l cuối âm tiết, trong chuẩn pt-PT thường là **l tối [ɫ]**, không dạy thành nguyên âm /u/ như một số giọng Brazil."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `por + ta → porta` (cửa); `pa + pel → papel` (giấy). **Đọc câu:** `O papel está na porta.` — Tờ giấy ở cửa. **Tự kiểm:** sắp `caro/car-ro/rato/prato` vào hai nhóm R nhẹ và R mạnh (chỉ xem vị trí r được nêu)."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 40,
+      "title": "Các cặp phụ âm và cụm phụ âm thường gặp",
+      "summary": "Học các cặp phụ âm và cụm phụ âm thường gặp. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Các cặp phụ âm và cụm phụ âm thường gặp.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Không nhầm:** `ch/lh/nh/rr/ss/qu/gu` (trong trường hợp u câm) gồm **hai chữ phục vụ một phụ âm**; `pr/br/tr...` là **hai âm phụ âm cùng mở một âm tiết**. Khi tách chữ thành âm tiết: `cha-ve`, `fi-lho`, `ni-nho`, `quei-jo`, nhưng `car-ro`, `mas-sa` **chia đôi** chữ đôi theo quy ước chính tả; nghe cả cụm vẫn theo âm R mạnh hoặc /s/."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bảng mở âm tiết (đọc thành tiếng theo mẫu, không coi mọi ô là từ):**"
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Có R nhẹ",
+              "Từ minh họa",
+              "Có L",
+              "Từ minh họa"
+            ],
+            [
+              "`pr`",
+              "`prato` (đĩa)",
+              "`pl`",
+              "`plano` (kế hoạch)"
+            ],
+            [
+              "`br`",
+              "`braço` (cánh tay)",
+              "`bl`",
+              "`blusa` (áo)"
+            ],
+            [
+              "`tr`",
+              "`trigo` (lúa mì)",
+              "`cl`",
+              "`claro` (rõ)"
+            ],
+            [
+              "`dr`",
+              "`pedra` (hòn đá)",
+              "`gl`",
+              "`globo` (quả địa cầu)"
+            ],
+            [
+              "`cr`",
+              "`cravo` (đinh / hoa cẩm chướng)",
+              "`fl`",
+              "`flor` (hoa)"
+            ],
+            [
+              "`gr`",
+              "`grilo` (dế)",
+              "—",
+              "—"
+            ],
+            [
+              "`fr`",
+              "`fruta` (trái cây)",
+              "—",
+              "—"
+            ],
+            [
+              "`vr`",
+              "`livro` (sách)",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `pe + dra → pedra`; `li + vro → livro`; `bra + ço → braço`. **Đọc câu:** `O livro tem uma flor.` — Quyển sách có một bông hoa. **Tự kiểm:** `prato` là hai chữ = một âm hay hai âm cùng một âm tiết? `chave` thuộc nhóm nào? Với `sc/sç/xc` của bài 34, luôn xem **ngữ cảnh cả từ**, không áp máy móc quy tắc một âm cho mọi lần xuất hiện."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bảng tập ghép *hình chữ* với năm nguyên âm** (đọc theo từ thực tế, không xem các ô đứng riêng là từ; hai dòng `rr/ss` **chỉ** đặt giữa các nguyên âm trong một từ):"
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Cặp chữ + vần",
+              "a",
+              "e",
+              "i",
+              "o",
+              "u",
+              "Từ thật để nhìn"
+            ],
+            [
+              "`ch`",
+              "cha",
+              "che",
+              "chi",
+              "cho",
+              "chu",
+              "`chave` (cha), `chefe` (che), `chuva` (chu)"
+            ],
+            [
+              "`lh`",
+              "lha",
+              "lhe",
+              "lhi",
+              "lho",
+              "lhu",
+              "`ilha` (lha), `mulher` (lhe), `milho` (lho)"
+            ],
+            [
+              "`nh`",
+              "nha",
+              "nhe",
+              "nhi",
+              "nho",
+              "nhu",
+              "`banha` (nha), `nenhum` (nhu), `ninho` (nho)"
+            ],
+            [
+              "`rr`",
+              "rra",
+              "rre",
+              "rri",
+              "rro",
+              "rru",
+              "`terra` (rra), `barriga` (rri), `carro` (rro)"
+            ],
+            [
+              "`ss`",
+              "ssa",
+              "sse",
+              "ssi",
+              "sso",
+              "ssu",
+              "`massa` (ssa), `passe` (sse), `osso` (sso), `assunto` (ssu)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Lưu ý quan trọng:** `rr/ss` là **cách nhìn để ghép âm**, khi chia âm tiết chính tả thì **`ter-ra`, `pas-se`**. `qu/gu` trước `e/i` và trường hợp u có tiếng học ở bài 37; không nhét `qua/guo` vào bảng “u câm”. Các ô `lhi/lhu` là ô luyện nhận chữ, không cần nghĩ ra từ thông dụng để lấp kín như bảng vần tiếng Việt."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`pr`",
+          "value": "`prato` (đĩa)",
+          "meaning": "`pl`"
+        },
+        {
+          "label": "`br`",
+          "value": "`braço` (cánh tay)",
+          "meaning": "`bl`"
+        },
+        {
+          "label": "`tr`",
+          "value": "`trigo` (lúa mì)",
+          "meaning": "`cl`"
+        },
+        {
+          "label": "`dr`",
+          "value": "`pedra` (hòn đá)",
+          "meaning": "`gl`"
+        },
+        {
+          "label": "`cr`",
+          "value": "`cravo` (đinh / hoa cẩm chướng)",
+          "meaning": "`fl`"
+        },
+        {
+          "label": "`gr`",
+          "value": "`grilo` (dế)",
+          "meaning": "—"
+        },
+        {
+          "label": "`fr`",
+          "value": "`fruta` (trái cây)",
+          "meaning": "—"
+        },
+        {
+          "label": "`vr`",
+          "value": "`livro` (sách)",
+          "meaning": "—"
+        },
+        {
+          "label": "`ch`",
+          "value": "cha",
+          "meaning": "che"
+        },
+        {
+          "label": "`lh`",
+          "value": "lha",
+          "meaning": "lhe"
+        },
+        {
+          "label": "`nh`",
+          "value": "nha",
+          "meaning": "nhe"
+        },
+        {
+          "label": "`rr`",
+          "value": "rra",
+          "meaning": "rre"
+        },
+        {
+          "label": "`ss`",
+          "value": "ssa",
+          "meaning": "sse"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Luyện ghép âm tiết và nhận ra từ có nghĩa",
+      "summary": "Học luyện ghép âm tiết và nhận ra từ có nghĩa. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Luyện ghép âm tiết và nhận ra từ có nghĩa.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bảng kết hợp phụ âm đầu và chữ nguyên âm đơn** (các ô là **âm tiết có thể tập nhận**, không phải danh sách từ, không hứa mỗi ô có một âm duy nhất trong mọi vị trí):"
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Đầu",
+              "a",
+              "e",
+              "i",
+              "o",
+              "u",
+              "Ví dụ từ thật"
+            ],
+            [
+              "`p`",
+              "pa",
+              "pe",
+              "pi",
+              "po",
+              "pu",
+              "`pato`, `pipa` (ống), `puma`"
+            ],
+            [
+              "`b`",
+              "ba",
+              "be",
+              "bi",
+              "bo",
+              "bu",
+              "`bala` (kẹo), `bico` (mỏ), `bolo`"
+            ],
+            [
+              "`t`",
+              "ta",
+              "te",
+              "ti",
+              "to",
+              "tu",
+              "`tato` (xúc giác), `tinta`, `tubo`"
+            ],
+            [
+              "`d`",
+              "da",
+              "de",
+              "di",
+              "do",
+              "du",
+              "`dado`, `dia`, `duna` (cồn cát)"
+            ],
+            [
+              "`f`",
+              "fa",
+              "fe",
+              "fi",
+              "fo",
+              "fu",
+              "`faca`, `fita` (ruy băng), `fumo` (khói)"
+            ],
+            [
+              "`v`",
+              "va",
+              "ve",
+              "vi",
+              "vo",
+              "vu",
+              "`vaca`, `vida` (cuộc sống), `vulcão`"
+            ],
+            [
+              "`m`",
+              "ma",
+              "me",
+              "mi",
+              "mo",
+              "mu",
+              "`mapa`, `mesa`, `mundo`"
+            ],
+            [
+              "`n`",
+              "na",
+              "ne",
+              "ni",
+              "no",
+              "nu",
+              "`nada`, `ninho`, `nuvem` (mây)"
+            ],
+            [
+              "`l`",
+              "la",
+              "le",
+              "li",
+              "lo",
+              "lu",
+              "`lata`, `leite`, `lua`"
+            ],
+            [
+              "`s`",
+              "sa",
+              "se",
+              "si",
+              "so",
+              "su",
+              "`sapo`, `sino` (chuông), `sumo` (nước quả)"
+            ],
+            [
+              "`r`",
+              "ra",
+              "re",
+              "ri",
+              "ro",
+              "ru",
+              "`rato`, `rede` (lưới), `rua` (đường)"
+            ],
+            [
+              "`j`",
+              "ja",
+              "je",
+              "ji",
+              "jo",
+              "ju",
+              "`janela`, `jeito`, `jogo`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Tách ghép:** `si + no → sino`; `su + mo → sumo`; `nu + vem → nuvem`. **Đọc câu:** `A menina bebe sumo.` — Bé gái uống nước quả. **Tự kiểm:** đặt ngón tay vào ô `sa` rồi tìm `sapo`; đọc ô `ti` và tìm `tinta`. `pipa` ở Bồ Đào Nha là *ống/thùng*, **không** lấy nghĩa “diều” của một số cách dùng Brazil."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`p`",
+          "value": "pa",
+          "meaning": "pe"
+        },
+        {
+          "label": "`b`",
+          "value": "ba",
+          "meaning": "be"
+        },
+        {
+          "label": "`t`",
+          "value": "ta",
+          "meaning": "te"
+        },
+        {
+          "label": "`d`",
+          "value": "da",
+          "meaning": "de"
+        },
+        {
+          "label": "`f`",
+          "value": "fa",
+          "meaning": "fe"
+        },
+        {
+          "label": "`v`",
+          "value": "va",
+          "meaning": "ve"
+        },
+        {
+          "label": "`m`",
+          "value": "ma",
+          "meaning": "me"
+        },
+        {
+          "label": "`n`",
+          "value": "na",
+          "meaning": "ne"
+        },
+        {
+          "label": "`l`",
+          "value": "la",
+          "meaning": "le"
+        },
+        {
+          "label": "`s`",
+          "value": "sa",
+          "meaning": "se"
+        },
+        {
+          "label": "`r`",
+          "value": "ra",
+          "meaning": "re"
+        },
+        {
+          "label": "`j`",
+          "value": "ja",
+          "meaning": "je"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Ôn cách đọc C, G, QU, GU và Ç",
+      "summary": "Học ôn cách đọc c, g, qu, gu và ç. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Ôn cách đọc C, G, QU, GU và Ç.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Muốn đọc âm đầu",
+              "Trước a/o/u",
+              "Trước e/i",
+              "Ví dụ thật"
+            ],
+            [
+              "/k/",
+              "`ca/co/cu`",
+              "`que/qui` (u câm)",
+              "`casa/copo/cubo`, `queijo/quilo`"
+            ],
+            [
+              "/g/",
+              "`ga/go/gu`",
+              "`gue/gui` (u câm)",
+              "`gato/gota/gula`, `guerra/guitarra`"
+            ],
+            [
+              "/s/",
+              "`sa/so/su` đầu từ hoặc `ça/ço/çu` trong từ",
+              "`se/si`, `ce/ci`",
+              "`sapo/taça`; `selo/cidade`"
+            ],
+            [
+              "/ʒ/",
+              "`ja/jo/ju`",
+              "`je/ji` hoặc `ge/gi`",
+              "`janela/jogo`; `jeito/gelo`"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "**Cảnh báo:** `/k/ + e` là cách đọc **chỉ khi e thực sự được đọc như /e/**; trong âm tiết không nhấn e có thể thành [ɨ]. Khi `qu/gu` có u phát âm như `quatro/água/aguentar`, ta **rẽ nhánh khác**, không gọi đó là lỗi."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `ci + da + de → cidade`; `gui + ta + rra → guitarra` (không tách `gu` khỏi `i` trong bảng ghép). **Đọc câu:** `O gato está na cidade.` — Mèo ở thành phố. **Tự kiểm:** chọn chữ mở đầu âm /k/ trong `queijo`, /s/ trong `cidade`, /ʒ/ trong `gelo`."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "/k/",
+          "value": "`ca/co/cu`",
+          "meaning": "`que/qui` (u câm)"
+        },
+        {
+          "label": "/g/",
+          "value": "`ga/go/gu`",
+          "meaning": "`gue/gui` (u câm)"
+        },
+        {
+          "label": "/s/",
+          "value": "`sa/so/su` đầu từ hoặc `ça/ço/çu` trong từ",
+          "meaning": "`se/si`, `ce/ci`"
+        },
+        {
+          "label": "/ʒ/",
+          "value": "`ja/jo/ju`",
+          "meaning": "`je/ji` hoặc `ge/gi`"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Ghép phụ âm với nguyên âm miệng và âm mũi",
+      "summary": "Học ghép phụ âm với nguyên âm miệng và âm mũi. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Ghép phụ âm với nguyên âm miệng và âm mũi.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Bước 1:** chọn **vần có trong từ thật**; không tự điền mọi phụ âm vào mọi cột để tạo “từ” giả. **Bước 2:** nghe từ hoàn chỉnh có trọng âm."
+        },
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Vần miệng",
+              "Ghép có nghĩa",
+              "Vần mũi",
+              "Ghép có nghĩa"
+            ],
+            [
+              "`ai`",
+              "`p + ai → pai` (bố)",
+              "`ãe`",
+              "`m + ãe → mãe` (mẹ)"
+            ],
+            [
+              "`au`",
+              "`p + au → pau` (que)",
+              "`ão`",
+              "`p + ão → pão` (bánh)"
+            ],
+            [
+              "`eu`",
+              "`m + eu → meu` (của tôi)",
+              "`õe`",
+              "`p + õe → põe` (đặt)"
+            ],
+            [
+              "`oi`",
+              "`b + oi → boi` (bò đực)",
+              "`em`",
+              "`b + em → bem` (tốt)"
+            ],
+            [
+              "`éu`",
+              "`c + éu → céu` (trời)",
+              "`om`",
+              "`b + om → bom` (tốt)"
+            ],
+            [
+              "`ui`",
+              "`f + ui → fui` (tôi đã đi)",
+              "`im`",
+              "`s + im → sim` (vâng)"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Đọc câu:** `O meu pai põe pão na mesa.` — Bố tôi đặt bánh mì lên bàn. **Tự kiểm:** viết ba từ gia đình `pai`, `mãe`, `meu`; khoanh vần nào mũi. `céu` và `seu` **không** thể đổi tự do `c/s`: cùng kiểu âm đầu có thể khác nhau theo chữ theo sau."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "`ai`",
+          "value": "`p + ai → pai` (bố)",
+          "meaning": "`ãe`"
+        },
+        {
+          "label": "`au`",
+          "value": "`p + au → pau` (que)",
+          "meaning": "`ão`"
+        },
+        {
+          "label": "`eu`",
+          "value": "`m + eu → meu` (của tôi)",
+          "meaning": "`õe`"
+        },
+        {
+          "label": "`oi`",
+          "value": "`b + oi → boi` (bò đực)",
+          "meaning": "`em`"
+        },
+        {
+          "label": "`éu`",
+          "value": "`c + éu → céu` (trời)",
+          "meaning": "`om`"
+        },
+        {
+          "label": "`ui`",
+          "value": "`f + ui → fui` (tôi đã đi)",
+          "meaning": "`im`"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Chia từ thành âm tiết theo bốn bước",
+      "summary": "Học chia từ thành âm tiết theo bốn bước. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Chia từ thành âm tiết theo bốn bước.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "list",
+          "text": "",
+          "ordered": true,
+          "items": [
+            "**Tìm tâm âm tiết**: nguyên âm miệng/mũi hoặc cặp nguyên âm đôi; `pai` = một tâm, `país` = hai tâm. Cách tách **trên giấy** không luôn giống số nhịp còn nghe khi nói nhanh.",
+            "**Giữa hai tâm có một phụ âm:** thường cho phụ âm sang âm tiết sau: `ca-sa`, `bo-la`, `pa-to`.",
+            "**Cụm mở âm tiết hợp lệ ở nguyên âm sau** như `pr`, `br`, `tr`, `dr`, `cr`, `gr`, `fr`, `pl`, `bl`, `cl`, `gl`, `fl`, `vr` đi cùng: `li-vro`, `pe-dra`, `a-bra-ço`; `ch/lh/nh`, `qu/gu` (trong cụm ghi một âm) giữ nguyên: `cha-ve`, `fi-lho`, `ni-nho`, `quei-jo`.",
+            "**Cụm còn lại xét từ thật, đừng máy móc:** `pas-ta`, `cam-po`, `al-to`, `por-ta`. Riêng `rr/ss` viết chia đôi: `car-ro`, `mas-sa`. Nguyên âm tách (*hiato*) chia: `lu-a`, `sa-ú-de`."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép ngược:** `car-ro → carro`, `quei-jo → queijo`, `sa-ú-de → saúde`. **Đọc câu:** `O carro está perto da casa.` — Xe ở gần nhà. **Tự kiểm:** tách trên giấy `prato, filho, massa, campo, país`."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 45,
+      "title": "Tìm âm tiết được nhấn và viết đúng dấu",
+      "summary": "Học tìm âm tiết được nhấn và viết đúng dấu. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Tìm âm tiết được nhấn và viết đúng dấu.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Nhìn dấu trước:** `café` ca-**FÉ**; `lápis` **LÁ**-pis; `médico` **MÉ**-di-co. Từ nhiều âm tiết nhấn **âm thứ ba từ cuối** thường có dấu viết: `médico`, `música` (**MÚ**-si-ca). Khi **không** có dấu, nhìn đuôi rồi dùng mẹo bài 22, sau cùng **nghe kiểm tra**."
+        },
+        {
+          "type": "paragraph",
+          "text": "**So sánh chữ viết pt-PT:** `académico`, `António`, `económico` (ở những từ đó nhiều chuẩn Brazil dùng `ê/ô` tương ứng); `facto` là “sự thật/sự kiện” trong cách viết Portugal. Không áp máy móc một khác biệt dấu lên **mọi** từ. **Cặp thì động từ ở Portugal:** `falamos` (chúng tôi nói, hiện tại) ≠ `falámos` (chúng tôi đã nói, quá khứ): **dấu á** và âm nhấn có vai trò phân biệt. Dấu `à` trong `vou à escola` = giới từ `a` + mạo từ `a`; không đánh trọng âm từ. `órgão` **ÓR**-gão có dấu `~` ở âm tiết không nhấn."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `mú + si + ca → música` (âm nhạc). **Đọc câu:** `A música é bonita.` — Âm nhạc hay. **Tự kiểm:** từ nào mang dấu trên âm tiết thứ ba tính từ cuối: `café/médico/música`? Từ nào mang dấu ngã nhưng nhấn chỗ khác: `irmã/órgão`?"
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 46,
+      "title": "Nối âm giữa các từ mà không đổi cách viết",
+      "summary": "Học nối âm giữa các từ mà không đổi cách viết. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Nối âm giữa các từ mà không đổi cách viết.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "**Nghe – nhìn hai từ cùng lúc:** `dois` (đọc riêng: s cuối gần [ʃ]); `dois livros` (trước l hữu thanh: gần [ʒ]); `dois amigos` (trước nguyên âm: gần [z]). Tương tự, `os gatos`, `os meninos`, `os amigos` có `s` đổi theo **âm đầu từ tiếp**, không đổi chữ viết."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Nguyên âm cuối không nhấn** của `o`, `de`, `a` có thể **liền hoặc yếu** trong lời nói: `o amigo`, `de água`, `a escola`. Không tạo quy tắc viết tắt bằng cách xóa chữ khi nghe. Trên giấy vẫn **hai từ** (`os amigos`), trừ các dạng viết gộp chính thức như `de + o = do`, `em + a = na`."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Ghép:** `os + amigos → os amigos` (không viết liền); `de + o → do` (viết gộp). **Đọc câu:** `Os amigos veem os livros.` — Những người bạn nhìn thấy các quyển sách. **Tự kiểm:** khoanh cách phát âm s cuối trước `a` trong `os amigos`: [ʃ]/[z]; trước `l` trong `os livros`: [ʃ]/[ʒ]."
+        }
+      ],
+      "vocabulary": []
+    },
+    {
+      "id": 47,
+      "title": "Từ âm nghe được đến cách viết và từ hoàn chỉnh",
+      "summary": "Học từ âm nghe được đến cách viết và từ hoàn chỉnh. Bạn sẽ nhìn chữ, nghe mẫu, ghép âm và đọc từ ngắn một cách dễ hiểu.",
+      "steps": [
+        "Nhìn rõ chữ và chủ đề của bài: Từ âm nghe được đến cách viết và từ hoàn chỉnh.",
+        "Nghe mẫu chậm, không vội đoán theo thói quen của tiếng Việt.",
+        "Ghép âm thành từ ngắn và đọc lại vài lần.",
+        "Luyện câu ngắn để nhớ cách đọc và ngữ nghĩa."
+      ],
+      "blocks": [
+        {
+          "type": "table",
+          "text": "",
+          "rows": [
+            [
+              "Nghe âm/chuỗi",
+              "Các cách viết thường cần nhận",
+              "Từ thật để chọn"
+            ],
+            [
+              "tám nguyên âm miệng và [ɨ] không nhấn",
+              "`a e i o u` cùng dấu theo trọng âm",
+              "`pá/cama/pé/vê/vi/avó/avô/tu/chave`"
+            ],
+            [
+              "năm nguyên âm mũi",
+              "`am/an/ã, em/en, im/in, om/on/õ, um/un`",
+              "`campo/tempo/tinta/sombra/mundo`"
+            ],
+            [
+              "âm lướt miệng và mũi",
+              "`ai ei éi oi ói ui au eu éu iu ou`; `ão ãe õe em am`",
+              "`pai/leite/papéis/boi/herói/fui/pau/meu/céu/viu/roupa; pão/mãe/põe/bem/falam`"
+            ],
+            [
+              "phụ âm một chữ",
+              "`p b t d f v m n l s z j r`, `c g` theo vị trí",
+              "`pato/bola/teto/dado/faca/vaca/mala/navio/lata/sapo/zero/janela/rato/casa/gato`"
+            ],
+            [
+              "phụ âm hai chữ, chữ đổi âm",
+              "`ch lh nh rr ss qu gu`; `ç`, `x`",
+              "`chave/filho/ninho/carro/massa/queijo/guitarra/taça/táxi`"
+            ],
+            [
+              "vị trí cuối âm tiết/cụm",
+              "`-s/-z`, `-l`, `-r`, `-m/-n`",
+              "`pasta/feliz/sol/mar/campo`"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Bé luyện trò chọn thẻ:** người lớn nói `pão, peixe, filho, casa, queijo`; bé chỉ vào đúng chữ, ghép lại từ, đọc cả câu `O filho vê o peixe.` — Người con trai nhìn thấy cá. **Tự kiểm:** trong bảng này, chữ nào **chỉ dùng nhiều ở từ mượn**? Trả lời từ bài 38. Bảng là **mục lục âm lõi**, không phải phát biểu rằng mọi biến thể [ʁ], [r], [β], [ð], [ɣ] là những chữ cái mới."
+        }
+      ],
+      "vocabulary": [
+        {
+          "label": "tám nguyên âm miệng và [ɨ] không nhấn",
+          "value": "`a e i o u` cùng dấu theo trọng âm",
+          "meaning": "`pá/cama/pé/vê/vi/avó/avô/tu/chave`"
+        },
+        {
+          "label": "năm nguyên âm mũi",
+          "value": "`am/an/ã, em/en, im/in, om/on/õ, um/un`",
+          "meaning": "`campo/tempo/tinta/sombra/mundo`"
+        },
+        {
+          "label": "âm lướt miệng và mũi",
+          "value": "`ai ei éi oi ói ui au eu éu iu ou`; `ão ãe õe em am`",
+          "meaning": "`pai/leite/papéis/boi/herói/fui/pau/meu/céu/viu/roupa; pão/mãe/põe/bem/falam`"
+        },
+        {
+          "label": "phụ âm một chữ",
+          "value": "`p b t d f v m n l s z j r`, `c g` theo vị trí",
+          "meaning": "`pato/bola/teto/dado/faca/vaca/mala/navio/lata/sapo/zero/janela/rato/casa/gato`"
+        },
+        {
+          "label": "phụ âm hai chữ, chữ đổi âm",
+          "value": "`ch lh nh rr ss qu gu`; `ç`, `x`",
+          "meaning": "`chave/filho/ninho/carro/massa/queijo/guitarra/taça/táxi`"
+        },
+        {
+          "label": "vị trí cuối âm tiết/cụm",
+          "value": "`-s/-z`, `-l`, `-r`, `-m/-n`",
+          "meaning": "`pasta/feliz/sol/mar/campo`"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Tự đọc: nhìn chữ, nghe, viết và kiểm tra",
+      "summary": "Tự luyện đọc bằng cách nhận chữ, chia âm tiết, tìm trọng âm, đọc câu rồi đối chiếu đáp án.",
+      "steps": [
+        "Đọc mẫu từ đầu đến cuối mà chưa nhìn phần đối chiếu.",
+        "Gạch chân chữ hoặc cụm chữ đang luyện.",
+        "Chia âm tiết và đánh dấu âm tiết được nhấn.",
+        "So sánh với đáp án và ghi lại từ cần ôn."
+      ],
+      "blocks": [
+        {
+          "type": "list",
+          "text": "",
+          "ordered": true,
+          "items": [
+            "**Nhìn và đọc** (không có hình): `casa, massa, gato, gelo, queijo, chuva, ninho, pai, pão, mundo, sol, livro, autocarro`.",
+            "**Gạch cặp chữ / vần:** `ch` trong `chuva`; `nh` trong `ninho`; `ão` trong `pão`; `rr` trong `autocarro`; `gu` trong `guitarra`.",
+            "**Vỗ trọng âm:** **CA**-sa, **MAS**-sa, **NI**-nho, au-to-**CAR**-ro, co-ra-**ÇÃO**.",
+            "**Đọc câu:** `O pai vai de autocarro e a mãe vai de comboio.` — Bố đi xe buýt và mẹ đi tàu hỏa.",
+            "**Nghe rồi viết** (người lớn đọc pt-PT, cho bé không nhìn trang): `chave, gelo, pão, peixe, filho, sol`."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "**Qua cửa khi:** bé ghép được từ mới *có mẫu âm*, nhận ra chữ dễ đổi âm theo vị trí và biết khi nào cần nghe từ điển (đặc biệt `x`, `e/o` có trọng âm không dấu, `qu/gu` có u đọc). **Không** yêu cầu nói như mọi vùng ở Portugal mới được qua bài."
+        }
+      ],
+      "vocabulary": []
+    }
+  ],
+  "meta": {
+    "source": "Tap-danh-van-tieng-Bo-Dao-Nha-chau-Au.md",
+    "locale": "pt-PT",
+    "audioPolicy": "TTS only with pt-PT voice and explicit validation; never silently fall back to pt-BR."
+  }
+}
